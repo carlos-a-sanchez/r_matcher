@@ -1,0 +1,3044 @@
+{
+  "_metadata": {
+    "description": "Engage \u2014 Consultant profiles with skills, certifications, bios, and detailed project history.",
+    "generated": "2026-03-26",
+    "record_count": 50,
+    "purpose": "AI Hackathon 2026 \u2014 Resume Matching & Supply/Demand Challenge",
+    "note": "This is synthetic data generated for hackathon use only. All names, companies, and records are fictional."
+  },
+  "records": [
+    {
+      "employee_id": "EMP-1000",
+      "full_name": "Alex Sharma",
+      "email": "alex.sharma@improving.com",
+      "practice_area": "Data & Analytics",
+      "seniority": "Architect",
+      "skills": [
+        "Splunk",
+        "OAuth",
+        "Zero Trust",
+        "Datadog",
+        "Amazon Web Services",
+        "AWS",
+        "Workday HCM"
+      ],
+      "certifications": [
+        "Certified Kubernetes Administrator (CKA)",
+        "CompTIA Security+",
+        "ServiceNow CSA",
+        "Certified Kubernetes Application Developer (CKAD)",
+        "AWS Solutions Architect - Associate"
+      ],
+      "years_of_experience": 20,
+      "bio": "Alex Sharma is a architect consultant in the Data & Analytics practice with 20 years of experience. Core competencies include Splunk, OAuth, Zero Trust, Datadog.",
+      "project_history": [
+        {
+          "project_name": "Chatbot & NLP Integration",
+          "client": "NovaStar Retail",
+          "role": "QA Automation Engineer",
+          "start_date": "2021-05-13",
+          "end_date": "2021-09-14",
+          "skills_used": [
+            "OAuth",
+            "Splunk",
+            "Amazon Web Services",
+            "Workday HCM"
+          ],
+          "description": "Contributed as Architect resource on migration engagement."
+        },
+        {
+          "project_name": "Edge Computing Pilot",
+          "client": "Meridian Health Systems",
+          "role": "Data Engineer",
+          "start_date": "2020-09-07",
+          "end_date": "2021-06-26",
+          "skills_used": [
+            "AWS",
+            "OAuth"
+          ],
+          "description": "Contributed as Architect resource on migration engagement."
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP-1001",
+      "full_name": "Jordan Williams",
+      "email": "jordan.williams@improving.com",
+      "practice_area": "ERP & Business Systems",
+      "seniority": "Mid-Level",
+      "skills": [
+        "Spark",
+        "Apache Spark",
+        "GitHub Actions",
+        "Chef",
+        "Confluence",
+        "Salesforce"
+      ],
+      "certifications": [],
+      "years_of_experience": 5,
+      "bio": "Jordan Williams is a mid-level consultant in the ERP & Business Systems practice with 5 years of experience. Core competencies include Spark, Apache Spark, GitHub Actions, Chef.",
+      "project_history": [
+        {
+          "project_name": "CI/CD Pipeline Overhaul",
+          "client": "SilverLake Capital",
+          "role": "Solutions Architect",
+          "start_date": "2024-06-03",
+          "end_date": "2025-06-03",
+          "skills_used": [
+            "GitHub Actions",
+            "Apache Spark"
+          ],
+          "description": "Contributed as Mid-Level resource on advisory engagement."
+        },
+        {
+          "project_name": "Automated Testing Framework",
+          "client": "Ironclad Defense Corp",
+          "role": "Technical Project Manager",
+          "start_date": "2020-08-13",
+          "end_date": "2020-10-25",
+          "skills_used": [
+            "Spark",
+            "GitHub Actions"
+          ],
+          "description": "Contributed as Mid-Level resource on implementation engagement."
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP-1002",
+      "full_name": "Taylor Chen",
+      "email": "taylor.chen@improving.com",
+      "practice_area": "Cybersecurity",
+      "seniority": "Principal",
+      "skills": [
+        "MLOps",
+        "Linux Administration",
+        "Scrum",
+        "Team Leadership",
+        "Ruby"
+      ],
+      "certifications": [
+        "CSM (Certified Scrum Master)",
+        "Google Cloud Professional Cloud Architect",
+        "Certified Kubernetes Application Developer (CKAD)",
+        "AWS Developer - Associate"
+      ],
+      "years_of_experience": 15,
+      "bio": "Taylor Chen is a principal consultant in the Cybersecurity practice with 15 years of experience. Core competencies include MLOps, Linux Administration, Scrum, Team Leadership.",
+      "project_history": [
+        {
+          "project_name": "Edge Computing Pilot",
+          "client": "Meridian Health Systems",
+          "role": "ERP Consultant",
+          "start_date": "2022-11-17",
+          "end_date": "2023-11-15",
+          "skills_used": [
+            "Team Leadership",
+            "Linux Administration"
+          ],
+          "description": "Contributed as Principal resource on optimization engagement."
+        },
+        {
+          "project_name": "Customer Portal Redesign",
+          "client": "Vanguard Telecom",
+          "role": "Data Scientist",
+          "start_date": "2021-06-27",
+          "end_date": "2021-09-21",
+          "skills_used": [
+            "Team Leadership",
+            "MLOps"
+          ],
+          "description": "Contributed as Principal resource on migration engagement."
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP-1003",
+      "full_name": "Morgan Rodriguez",
+      "email": "morgan.rodriguez@improving.com",
+      "practice_area": "Application Development",
+      "seniority": "Principal",
+      "skills": [
+        "Bash",
+        "ArgoCD",
+        "ETL",
+        "Tableau",
+        "PostgreSQL",
+        "Project Management",
+        "ServiceNow"
+      ],
+      "certifications": [
+        "SAFe Agilist",
+        "CompTIA Security+",
+        "Azure Solutions Architect (AZ-305)",
+        "Certified Kubernetes Application Developer (CKAD)",
+        "ServiceNow CSA"
+      ],
+      "years_of_experience": 15,
+      "bio": "Morgan Rodriguez is a principal consultant in the Application Development practice with 15 years of experience. Core competencies include Bash, ArgoCD, ETL, Tableau.",
+      "project_history": [
+        {
+          "project_name": "Edge Computing Pilot",
+          "client": "TerraVerde Energy",
+          "role": "Full Stack Developer",
+          "start_date": "2023-12-29",
+          "end_date": "2024-10-11",
+          "skills_used": [
+            "Bash",
+            "ETL"
+          ],
+          "description": "Contributed as Principal resource on advisory engagement."
+        },
+        {
+          "project_name": "Salesforce CPQ Implementation",
+          "client": "BrightPath Education",
+          "role": "DevOps Engineer",
+          "start_date": "2022-07-27",
+          "end_date": "2022-10-10",
+          "skills_used": [
+            "Tableau",
+            "ServiceNow"
+          ],
+          "description": "Contributed as Principal resource on modernization engagement."
+        },
+        {
+          "project_name": "Kubernetes Platform Build",
+          "client": "SilverLake Capital",
+          "role": "Cloud Architect",
+          "start_date": "2021-07-17",
+          "end_date": "2022-07-11",
+          "skills_used": [
+            "Project Management",
+            "ETL",
+            "Tableau",
+            "ServiceNow"
+          ],
+          "description": "Contributed as Principal resource on modernization engagement."
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP-1004",
+      "full_name": "Casey Patel",
+      "email": "casey.patel@improving.com",
+      "practice_area": "Cybersecurity",
+      "seniority": "Mid-Level",
+      "skills": [
+        "Jira",
+        "Scrum",
+        "Team Leadership",
+        "Spark",
+        "Google Cloud Platform"
+      ],
+      "certifications": [
+        "Certified Kubernetes Application Developer (CKAD)",
+        "Salesforce Administrator"
+      ],
+      "years_of_experience": 5,
+      "bio": "Casey Patel is a mid-level consultant in the Cybersecurity practice with 5 years of experience. Core competencies include Jira, Scrum, Team Leadership, Spark.",
+      "project_history": [
+        {
+          "project_name": "Automated Testing Framework",
+          "client": "CrestPoint Logistics",
+          "role": "Technical Project Manager",
+          "start_date": "2024-06-12",
+          "end_date": "2024-10-08",
+          "skills_used": [
+            "Google Cloud Platform",
+            "Scrum",
+            "Spark",
+            "Team Leadership"
+          ],
+          "description": "Contributed as Mid-Level resource on modernization engagement."
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP-1005",
+      "full_name": "Riley Kim",
+      "email": "riley.kim@improving.com",
+      "practice_area": "Data & Analytics",
+      "seniority": "Junior",
+      "skills": [
+        "CrowdStrike",
+        "NIST",
+        "Feature Engineering",
+        "C#",
+        "SQL",
+        "Swift",
+        "Redshift"
+      ],
+      "certifications": [],
+      "years_of_experience": 1,
+      "bio": "Riley Kim is a junior consultant in the Data & Analytics practice with 1 years of experience. Core competencies include CrowdStrike, NIST, Feature Engineering, C#.",
+      "project_history": [
+        {
+          "project_name": "API Gateway Implementation",
+          "client": "Ironclad Defense Corp",
+          "role": "Back-End Developer",
+          "start_date": "2024-11-12",
+          "end_date": "2025-02-06",
+          "skills_used": [
+            "SQL",
+            "Feature Engineering",
+            "Swift"
+          ],
+          "description": "Contributed as Junior resource on advisory engagement."
+        },
+        {
+          "project_name": "API Gateway Implementation",
+          "client": "CrestPoint Logistics",
+          "role": "Platform Engineer",
+          "start_date": "2024-07-20",
+          "end_date": "2024-11-23",
+          "skills_used": [
+            "CrowdStrike",
+            "SQL",
+            "Swift",
+            "Feature Engineering"
+          ],
+          "description": "Contributed as Junior resource on modernization engagement."
+        },
+        {
+          "project_name": "Microservices Decomposition",
+          "client": "TerraVerde Energy",
+          "role": "MLOps Engineer",
+          "start_date": "2022-05-01",
+          "end_date": "2022-08-17",
+          "skills_used": [
+            "C#",
+            "Feature Engineering",
+            "Swift"
+          ],
+          "description": "Contributed as Junior resource on modernization engagement."
+        },
+        {
+          "project_name": "API Gateway Implementation",
+          "client": "Cascade Utilities",
+          "role": "ERP Consultant",
+          "start_date": "2020-05-17",
+          "end_date": "2020-08-31",
+          "skills_used": [
+            "CrowdStrike",
+            "C#"
+          ],
+          "description": "Contributed as Junior resource on migration engagement."
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP-1006",
+      "full_name": "Jamie Okafor",
+      "email": "jamie.okafor@improving.com",
+      "practice_area": "Application Development",
+      "seniority": "Senior",
+      "skills": [
+        "PHP",
+        "OpenAI API",
+        "Hugging Face",
+        "CI/CD",
+        "Jenkins",
+        "Scrum"
+      ],
+      "certifications": [
+        "Databricks Data Engineer Associate"
+      ],
+      "years_of_experience": 8,
+      "bio": "Jamie Okafor is a senior consultant in the Application Development practice with 8 years of experience. Core competencies include PHP, OpenAI API, Hugging Face, CI/CD.",
+      "project_history": [
+        {
+          "project_name": "Compliance Automation",
+          "client": "Pinnacle Manufacturing",
+          "role": "DevOps Engineer",
+          "start_date": "2023-09-06",
+          "end_date": "2024-07-08",
+          "skills_used": [
+            "PHP",
+            "Hugging Face"
+          ],
+          "description": "Contributed as Senior resource on migration engagement."
+        },
+        {
+          "project_name": "Edge Computing Pilot",
+          "client": "Oceanview Hospitality",
+          "role": "MLOps Engineer",
+          "start_date": "2023-03-21",
+          "end_date": "2023-09-12",
+          "skills_used": [
+            "Jenkins",
+            "Scrum",
+            "PHP"
+          ],
+          "description": "Contributed as Senior resource on migration engagement."
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP-1007",
+      "full_name": "Quinn Mueller",
+      "email": "quinn.mueller@improving.com",
+      "practice_area": "Application Development",
+      "seniority": "Principal",
+      "skills": [
+        "Workday HCM",
+        "Salesforce",
+        "Dynamics 365",
+        "ArgoCD",
+        "Chef",
+        "Prometheus",
+        "NIST",
+        "Splunk",
+        "Penetration Testing",
+        "ML"
+      ],
+      "certifications": [
+        "ITIL v4 Foundation",
+        "AWS Solutions Architect - Professional"
+      ],
+      "years_of_experience": 13,
+      "bio": "Quinn Mueller is a principal consultant in the Application Development practice with 13 years of experience. Core competencies include Workday HCM, Salesforce, Dynamics 365, ArgoCD.",
+      "project_history": [
+        {
+          "project_name": "ML Fraud Detection System",
+          "client": "Redwood Analytics",
+          "role": "Machine Learning Engineer",
+          "start_date": "2021-01-04",
+          "end_date": "2021-07-22",
+          "skills_used": [
+            "Chef",
+            "Prometheus",
+            "Penetration Testing",
+            "Workday HCM"
+          ],
+          "description": "Contributed as Principal resource on optimization engagement."
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP-1008",
+      "full_name": "Avery Tanaka",
+      "email": "avery.tanaka@improving.com",
+      "practice_area": "Data & Analytics",
+      "seniority": "Mid-Level",
+      "skills": [
+        "AKS",
+        "Microsoft Azure",
+        "Pulumi",
+        "Helm",
+        "Data Modeling",
+        "BigQuery",
+        "Tableau"
+      ],
+      "certifications": [
+        "CISSP"
+      ],
+      "years_of_experience": 4,
+      "bio": "Avery Tanaka is a mid-level consultant in the Data & Analytics practice with 4 years of experience. Core competencies include AKS, Microsoft Azure, Pulumi, Helm.",
+      "project_history": [
+        {
+          "project_name": "Real-Time Analytics Platform",
+          "client": "BrightPath Education",
+          "role": "MLOps Engineer",
+          "start_date": "2021-07-13",
+          "end_date": "2021-12-30",
+          "skills_used": [
+            "AKS",
+            "Pulumi",
+            "Helm",
+            "Tableau"
+          ],
+          "description": "Contributed as Mid-Level resource on optimization engagement."
+        },
+        {
+          "project_name": "Edge Computing Pilot",
+          "client": "Apex Financial Group",
+          "role": "Data Engineer",
+          "start_date": "2020-11-18",
+          "end_date": "2021-07-25",
+          "skills_used": [
+            "BigQuery",
+            "Pulumi",
+            "Data Modeling"
+          ],
+          "description": "Contributed as Mid-Level resource on advisory engagement."
+        },
+        {
+          "project_name": "Data Governance Framework",
+          "client": "Ironclad Defense Corp",
+          "role": "Data Scientist",
+          "start_date": "2020-11-18",
+          "end_date": "2021-02-11",
+          "skills_used": [
+            "AKS",
+            "Pulumi",
+            "Helm",
+            "Data Modeling"
+          ],
+          "description": "Contributed as Mid-Level resource on modernization engagement."
+        },
+        {
+          "project_name": "Identity Management Overhaul",
+          "client": "CrestPoint Logistics",
+          "role": "Data Scientist",
+          "start_date": "2020-05-22",
+          "end_date": "2020-10-01",
+          "skills_used": [
+            "BigQuery",
+            "AKS",
+            "Tableau",
+            "Microsoft Azure"
+          ],
+          "description": "Contributed as Mid-Level resource on migration engagement."
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP-1009",
+      "full_name": "Cameron Singh",
+      "email": "cameron.singh@improving.com",
+      "practice_area": "Quality Engineering",
+      "seniority": "Lead",
+      "skills": [
+        "Docker",
+        "Azure Functions",
+        "TypeScript",
+        "CI/CD"
+      ],
+      "certifications": [
+        "AWS Developer - Associate",
+        "CompTIA Security+"
+      ],
+      "years_of_experience": 8,
+      "bio": "Cameron Singh is a lead consultant in the Quality Engineering practice with 8 years of experience. Core competencies include Docker, Azure Functions, TypeScript, CI/CD.",
+      "project_history": [
+        {
+          "project_name": "Compliance Automation",
+          "client": "Cascade Utilities",
+          "role": "QA Automation Engineer",
+          "start_date": "2024-03-09",
+          "end_date": "2024-12-14",
+          "skills_used": [
+            "Azure Functions",
+            "CI/CD"
+          ],
+          "description": "Contributed as Lead resource on optimization engagement."
+        },
+        {
+          "project_name": "Data Lake Modernization",
+          "client": "CrestPoint Logistics",
+          "role": "Senior Cloud Engineer",
+          "start_date": "2023-02-18",
+          "end_date": "2023-10-17",
+          "skills_used": [
+            "CI/CD",
+            "TypeScript"
+          ],
+          "description": "Contributed as Lead resource on modernization engagement."
+        },
+        {
+          "project_name": "Edge Computing Pilot",
+          "client": "Meridian Health Systems",
+          "role": "Senior Cloud Engineer",
+          "start_date": "2022-12-15",
+          "end_date": "2023-07-20",
+          "skills_used": [
+            "Azure Functions",
+            "CI/CD"
+          ],
+          "description": "Contributed as Lead resource on advisory engagement."
+        },
+        {
+          "project_name": "Mobile App Rewrite",
+          "client": "Apex Financial Group",
+          "role": "Senior Cloud Engineer",
+          "start_date": "2021-09-09",
+          "end_date": "2022-02-24",
+          "skills_used": [
+            "TypeScript",
+            "Azure Functions"
+          ],
+          "description": "Contributed as Lead resource on modernization engagement."
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP-1010",
+      "full_name": "Drew Johnson",
+      "email": "drew.johnson@improving.com",
+      "practice_area": "Data & Analytics",
+      "seniority": "Principal",
+      "skills": [
+        "Team Leadership",
+        "Rust",
+        "TypeScript",
+        "Selenium",
+        "Jest",
+        "AWS",
+        "Terraform"
+      ],
+      "certifications": [
+        "Google Cloud Professional Cloud Architect",
+        "Terraform Associate",
+        "ITIL v4 Foundation"
+      ],
+      "years_of_experience": 18,
+      "bio": "Drew Johnson is a principal consultant in the Data & Analytics practice with 18 years of experience. Core competencies include Team Leadership, Rust, TypeScript, Selenium.",
+      "project_history": [
+        {
+          "project_name": "Real-Time Analytics Platform",
+          "client": "Apex Financial Group",
+          "role": "Site Reliability Engineer",
+          "start_date": "2024-10-31",
+          "end_date": "2025-06-08",
+          "skills_used": [
+            "Selenium",
+            "Jest",
+            "Terraform",
+            "AWS"
+          ],
+          "description": "Contributed as Principal resource on implementation engagement."
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP-1011",
+      "full_name": "Emery Lopez",
+      "email": "emery.lopez@improving.com",
+      "practice_area": "Cloud & Infrastructure",
+      "seniority": "Junior",
+      "skills": [
+        "SQL",
+        "Ruby",
+        "SAFe",
+        "Agile",
+        "Stakeholder Management",
+        "CrowdStrike"
+      ],
+      "certifications": [],
+      "years_of_experience": 1,
+      "bio": "Emery Lopez is a junior consultant in the Cloud & Infrastructure practice with 1 years of experience. Core competencies include SQL, Ruby, SAFe, Agile.",
+      "project_history": [
+        {
+          "project_name": "Mobile App Rewrite",
+          "client": "Summit Pharmaceuticals",
+          "role": "Cybersecurity Analyst",
+          "start_date": "2022-12-09",
+          "end_date": "2023-03-19",
+          "skills_used": [
+            "SAFe",
+            "CrowdStrike",
+            "Ruby"
+          ],
+          "description": "Contributed as Junior resource on implementation engagement."
+        },
+        {
+          "project_name": "CI/CD Pipeline Overhaul",
+          "client": "NovaStar Retail",
+          "role": "DevOps Engineer",
+          "start_date": "2022-11-11",
+          "end_date": "2023-03-09",
+          "skills_used": [
+            "Stakeholder Management",
+            "Ruby",
+            "SAFe",
+            "CrowdStrike"
+          ],
+          "description": "Contributed as Junior resource on advisory engagement."
+        },
+        {
+          "project_name": "Automated Testing Framework",
+          "client": "CrestPoint Logistics",
+          "role": "Database Administrator",
+          "start_date": "2020-12-17",
+          "end_date": "2021-10-08",
+          "skills_used": [
+            "SAFe",
+            "SQL",
+            "Agile",
+            "Stakeholder Management"
+          ],
+          "description": "Contributed as Junior resource on modernization engagement."
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP-1012",
+      "full_name": "Finley Nakamura",
+      "email": "finley.nakamura@improving.com",
+      "practice_area": "DevOps & SRE",
+      "seniority": "Principal",
+      "skills": [
+        "R",
+        "SQL",
+        ".NET",
+        "Terraform",
+        "Docker",
+        "Chef",
+        "CI/CD",
+        "Ansible",
+        "Deep Learning",
+        "MLOps",
+        "Terraform",
+        "Kubernetes",
+        "Helm"
+      ],
+      "certifications": [
+        "AWS Developer - Associate",
+        "Salesforce Administrator"
+      ],
+      "years_of_experience": 10,
+      "bio": "Finley Nakamura is a principal consultant in the DevOps & SRE practice with 10 years of experience. Core competencies include R, SQL, .NET, Terraform.",
+      "project_history": [
+        {
+          "project_name": "Performance Optimization Sprint",
+          "client": "Apex Financial Group",
+          "role": "Scrum Master",
+          "start_date": "2023-07-17",
+          "end_date": "2024-02-17",
+          "skills_used": [
+            "MLOps",
+            "R",
+            "Chef"
+          ],
+          "description": "Contributed as Principal resource on modernization engagement."
+        },
+        {
+          "project_name": "Kubernetes Platform Build",
+          "client": "Apex Financial Group",
+          "role": "Front-End Developer",
+          "start_date": "2022-07-08",
+          "end_date": "2023-06-22",
+          "skills_used": [
+            "MLOps",
+            "Chef",
+            "Deep Learning",
+            "SQL"
+          ],
+          "description": "Contributed as Principal resource on modernization engagement."
+        },
+        {
+          "project_name": "Data Governance Framework",
+          "client": "Vanguard Telecom",
+          "role": "Database Administrator",
+          "start_date": "2021-02-08",
+          "end_date": "2021-07-06",
+          "skills_used": [
+            ".NET",
+            "SQL",
+            "MLOps",
+            "CI/CD"
+          ],
+          "description": "Contributed as Principal resource on optimization engagement."
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP-1013",
+      "full_name": "Harper Brown",
+      "email": "harper.brown@improving.com",
+      "practice_area": "Cybersecurity",
+      "seniority": "Mid-Level",
+      "skills": [
+        "Google Cloud Platform",
+        "CloudFormation",
+        "Helm",
+        "Ansible",
+        "Datadog",
+        "Redshift",
+        "Snowflake",
+        "ETL"
+      ],
+      "certifications": [],
+      "years_of_experience": 5,
+      "bio": "Harper Brown is a mid-level consultant in the Cybersecurity practice with 5 years of experience. Core competencies include Google Cloud Platform, CloudFormation, Helm, Ansible.",
+      "project_history": [
+        {
+          "project_name": "Mobile App Rewrite",
+          "client": "Ironclad Defense Corp",
+          "role": "Front-End Developer",
+          "start_date": "2022-02-26",
+          "end_date": "2022-12-19",
+          "skills_used": [
+            "Google Cloud Platform",
+            "Ansible",
+            "Datadog",
+            "CloudFormation"
+          ],
+          "description": "Contributed as Mid-Level resource on optimization engagement."
+        },
+        {
+          "project_name": "Customer Portal Redesign",
+          "client": "SilverLake Capital",
+          "role": "Security Engineer",
+          "start_date": "2020-11-04",
+          "end_date": "2021-02-03",
+          "skills_used": [
+            "CloudFormation",
+            "Snowflake",
+            "Helm"
+          ],
+          "description": "Contributed as Mid-Level resource on advisory engagement."
+        },
+        {
+          "project_name": "Edge Computing Pilot",
+          "client": "TerraVerde Energy",
+          "role": "Platform Engineer",
+          "start_date": "2020-03-21",
+          "end_date": "2020-09-23",
+          "skills_used": [
+            "ETL",
+            "Ansible",
+            "Datadog",
+            "Redshift"
+          ],
+          "description": "Contributed as Mid-Level resource on migration engagement."
+        },
+        {
+          "project_name": "Customer Portal Redesign",
+          "client": "Ironclad Defense Corp",
+          "role": "Cloud Architect",
+          "start_date": "2020-03-18",
+          "end_date": "2020-06-15",
+          "skills_used": [
+            "Datadog",
+            "Google Cloud Platform",
+            "Redshift"
+          ],
+          "description": "Contributed as Mid-Level resource on optimization engagement."
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP-1014",
+      "full_name": "Kendall Garcia",
+      "email": "kendall.garcia@improving.com",
+      "practice_area": "Application Development",
+      "seniority": "Architect",
+      "skills": [
+        "ArgoCD",
+        "Shell Scripting",
+        "Ansible",
+        "scikit-learn",
+        "Natural Language Processing",
+        "Machine Learning",
+        "ECS"
+      ],
+      "certifications": [
+        "CompTIA Security+",
+        "Salesforce Administrator",
+        "CISSP"
+      ],
+      "years_of_experience": 16,
+      "bio": "Kendall Garcia is a architect consultant in the Application Development practice with 16 years of experience. Core competencies include ArgoCD, Shell Scripting, Ansible, scikit-learn.",
+      "project_history": [
+        {
+          "project_name": "CI/CD Pipeline Overhaul",
+          "client": "Ironclad Defense Corp",
+          "role": "Integration Specialist",
+          "start_date": "2023-09-21",
+          "end_date": "2024-01-31",
+          "skills_used": [
+            "Ansible",
+            "Machine Learning",
+            "scikit-learn"
+          ],
+          "description": "Contributed as Architect resource on implementation engagement."
+        },
+        {
+          "project_name": "CI/CD Pipeline Overhaul",
+          "client": "Pinnacle Manufacturing",
+          "role": "Full Stack Developer",
+          "start_date": "2023-02-16",
+          "end_date": "2023-10-31",
+          "skills_used": [
+            "Ansible",
+            "Machine Learning",
+            "Natural Language Processing"
+          ],
+          "description": "Contributed as Architect resource on optimization engagement."
+        },
+        {
+          "project_name": "Mobile App Rewrite",
+          "client": "Apex Financial Group",
+          "role": "Technical Project Manager",
+          "start_date": "2022-03-04",
+          "end_date": "2022-11-28",
+          "skills_used": [
+            "Machine Learning",
+            "Natural Language Processing",
+            "ArgoCD"
+          ],
+          "description": "Contributed as Architect resource on implementation engagement."
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP-1015",
+      "full_name": "Logan Nguyen",
+      "email": "logan.nguyen@improving.com",
+      "practice_area": "Cloud & Infrastructure",
+      "seniority": "Principal",
+      "skills": [
+        "Data Modeling",
+        "ETL",
+        "Go",
+        "Databricks"
+      ],
+      "certifications": [
+        "CSM (Certified Scrum Master)",
+        "Salesforce Administrator"
+      ],
+      "years_of_experience": 13,
+      "bio": "Logan Nguyen is a principal consultant in the Cloud & Infrastructure practice with 13 years of experience. Core competencies include Data Modeling, ETL, Go, Databricks.",
+      "project_history": [
+        {
+          "project_name": "Performance Optimization Sprint",
+          "client": "Pinnacle Manufacturing",
+          "role": "Senior Cloud Engineer",
+          "start_date": "2023-02-18",
+          "end_date": "2023-10-28",
+          "skills_used": [
+            "Go",
+            "Data Modeling",
+            "Databricks",
+            "ETL"
+          ],
+          "description": "Contributed as Principal resource on migration engagement."
+        },
+        {
+          "project_name": "SAP S/4HANA Migration",
+          "client": "NovaStar Retail",
+          "role": "Machine Learning Engineer",
+          "start_date": "2021-09-24",
+          "end_date": "2022-02-23",
+          "skills_used": [
+            "Go",
+            "ETL"
+          ],
+          "description": "Contributed as Principal resource on advisory engagement."
+        },
+        {
+          "project_name": "Mobile App Rewrite",
+          "client": "Oceanview Hospitality",
+          "role": "Cloud Architect",
+          "start_date": "2020-06-07",
+          "end_date": "2021-01-04",
+          "skills_used": [
+            "Data Modeling",
+            "Go"
+          ],
+          "description": "Contributed as Principal resource on advisory engagement."
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP-1016",
+      "full_name": "Parker Anderson",
+      "email": "parker.anderson@improving.com",
+      "practice_area": "Application Development",
+      "seniority": "Lead",
+      "skills": [
+        "Airflow",
+        "ServiceNow",
+        "Dynamics 365",
+        "Workday HCM"
+      ],
+      "certifications": [
+        "Google Cloud Professional Cloud Architect",
+        "CompTIA Security+"
+      ],
+      "years_of_experience": 10,
+      "bio": "Parker Anderson is a lead consultant in the Application Development practice with 10 years of experience. Core competencies include Airflow, ServiceNow, Dynamics 365, Workday HCM.",
+      "project_history": [
+        {
+          "project_name": "Customer Portal Redesign",
+          "client": "Summit Pharmaceuticals",
+          "role": "Cybersecurity Analyst",
+          "start_date": "2024-11-25",
+          "end_date": "2025-08-02",
+          "skills_used": [
+            "Airflow",
+            "Dynamics 365",
+            "Workday HCM",
+            "ServiceNow"
+          ],
+          "description": "Contributed as Lead resource on migration engagement."
+        },
+        {
+          "project_name": "Zero Trust Architecture",
+          "client": "Meridian Health Systems",
+          "role": "Security Engineer",
+          "start_date": "2024-05-12",
+          "end_date": "2025-01-22",
+          "skills_used": [
+            "Workday HCM",
+            "Airflow",
+            "Dynamics 365",
+            "ServiceNow"
+          ],
+          "description": "Contributed as Lead resource on modernization engagement."
+        },
+        {
+          "project_name": "Edge Computing Pilot",
+          "client": "Summit Pharmaceuticals",
+          "role": "Cybersecurity Analyst",
+          "start_date": "2022-02-10",
+          "end_date": "2022-06-28",
+          "skills_used": [
+            "ServiceNow",
+            "Dynamics 365"
+          ],
+          "description": "Contributed as Lead resource on modernization engagement."
+        },
+        {
+          "project_name": "Chatbot & NLP Integration",
+          "client": "Vanguard Telecom",
+          "role": "Data Scientist",
+          "start_date": "2021-09-25",
+          "end_date": "2022-07-22",
+          "skills_used": [
+            "Dynamics 365",
+            "Workday HCM"
+          ],
+          "description": "Contributed as Lead resource on migration engagement."
+        },
+        {
+          "project_name": "Kubernetes Platform Build",
+          "client": "NovaStar Retail",
+          "role": "Mobile Developer",
+          "start_date": "2020-03-30",
+          "end_date": "2020-12-25",
+          "skills_used": [
+            "ServiceNow",
+            "Workday HCM",
+            "Dynamics 365"
+          ],
+          "description": "Contributed as Lead resource on advisory engagement."
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP-1017",
+      "full_name": "Reese Martinez",
+      "email": "reese.martinez@improving.com",
+      "practice_area": "Cybersecurity",
+      "seniority": "Senior",
+      "skills": [
+        ".NET",
+        "C#",
+        "Linux Administration",
+        "SOC 2"
+      ],
+      "certifications": [
+        "ServiceNow CSA"
+      ],
+      "years_of_experience": 7,
+      "bio": "Reese Martinez is a senior consultant in the Cybersecurity practice with 7 years of experience. Core competencies include .NET, C#, Linux Administration, SOC 2.",
+      "project_history": [
+        {
+          "project_name": "Automated Testing Framework",
+          "client": "CrestPoint Logistics",
+          "role": "Full Stack Developer",
+          "start_date": "2025-03-20",
+          "end_date": "2025-06-01",
+          "skills_used": [
+            ".NET",
+            "C#",
+            "Linux Administration"
+          ],
+          "description": "Contributed as Senior resource on migration engagement."
+        },
+        {
+          "project_name": "Edge Computing Pilot",
+          "client": "Meridian Health Systems",
+          "role": "Full Stack Developer",
+          "start_date": "2025-02-21",
+          "end_date": "2025-12-19",
+          "skills_used": [
+            "C#",
+            "Linux Administration",
+            "SOC 2",
+            ".NET"
+          ],
+          "description": "Contributed as Senior resource on implementation engagement."
+        },
+        {
+          "project_name": "Automated Testing Framework",
+          "client": "Redwood Analytics",
+          "role": "Data Scientist",
+          "start_date": "2025-01-28",
+          "end_date": "2025-12-16",
+          "skills_used": [
+            "SOC 2",
+            ".NET"
+          ],
+          "description": "Contributed as Senior resource on migration engagement."
+        },
+        {
+          "project_name": "CI/CD Pipeline Overhaul",
+          "client": "TerraVerde Energy",
+          "role": "Data Engineer",
+          "start_date": "2021-04-04",
+          "end_date": "2021-06-17",
+          "skills_used": [
+            ".NET",
+            "Linux Administration",
+            "C#"
+          ],
+          "description": "Contributed as Senior resource on migration engagement."
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP-1018",
+      "full_name": "Sage Thompson",
+      "email": "sage.thompson@improving.com",
+      "practice_area": "Cloud & Infrastructure",
+      "seniority": "Senior",
+      "skills": [
+        "Confluence",
+        "Jira",
+        "PyTorch",
+        "JUnit",
+        "TestNG",
+        "Selenium",
+        "Redis",
+        "Snowflake",
+        "Redshift"
+      ],
+      "certifications": [
+        "Azure Administrator (AZ-104)",
+        "Terraform Associate",
+        "Snowflake SnowPro Core"
+      ],
+      "years_of_experience": 8,
+      "bio": "Sage Thompson is a senior consultant in the Cloud & Infrastructure practice with 8 years of experience. Core competencies include Confluence, Jira, PyTorch, JUnit.",
+      "project_history": [
+        {
+          "project_name": "Edge Computing Pilot",
+          "client": "Pinnacle Manufacturing",
+          "role": "QA Automation Engineer",
+          "start_date": "2023-03-23",
+          "end_date": "2023-09-22",
+          "skills_used": [
+            "PyTorch",
+            "TestNG",
+            "JUnit",
+            "Confluence"
+          ],
+          "description": "Contributed as Senior resource on optimization engagement."
+        },
+        {
+          "project_name": "Edge Computing Pilot",
+          "client": "SilverLake Capital",
+          "role": "Senior Cloud Engineer",
+          "start_date": "2021-05-03",
+          "end_date": "2022-02-01",
+          "skills_used": [
+            "Snowflake",
+            "Jira",
+            "Confluence",
+            "JUnit"
+          ],
+          "description": "Contributed as Senior resource on optimization engagement."
+        },
+        {
+          "project_name": "Automated Testing Framework",
+          "client": "BlueHorizon Insurance",
+          "role": "DevOps Engineer",
+          "start_date": "2021-03-17",
+          "end_date": "2021-07-31",
+          "skills_used": [
+            "Redshift",
+            "Redis",
+            "Confluence",
+            "PyTorch"
+          ],
+          "description": "Contributed as Senior resource on implementation engagement."
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP-1019",
+      "full_name": "Dakota Lee",
+      "email": "dakota.lee@improving.com",
+      "practice_area": "ERP & Business Systems",
+      "seniority": "Senior",
+      "skills": [
+        "OAuth",
+        "ISO 27001",
+        "Airflow",
+        "Data Modeling",
+        "Looker",
+        "AWS",
+        "GCP"
+      ],
+      "certifications": [
+        "CompTIA Security+",
+        "Google Cloud Professional Cloud Architect"
+      ],
+      "years_of_experience": 8,
+      "bio": "Dakota Lee is a senior consultant in the ERP & Business Systems practice with 8 years of experience. Core competencies include OAuth, ISO 27001, Airflow, Data Modeling.",
+      "project_history": [
+        {
+          "project_name": "Customer Portal Redesign",
+          "client": "Cascade Utilities",
+          "role": "Data Scientist",
+          "start_date": "2024-08-27",
+          "end_date": "2025-06-20",
+          "skills_used": [
+            "Data Modeling",
+            "AWS",
+            "ISO 27001",
+            "Looker"
+          ],
+          "description": "Contributed as Senior resource on implementation engagement."
+        },
+        {
+          "project_name": "Microservices Decomposition",
+          "client": "Summit Pharmaceuticals",
+          "role": "Full Stack Developer",
+          "start_date": "2023-07-25",
+          "end_date": "2024-04-08",
+          "skills_used": [
+            "Airflow",
+            "AWS",
+            "OAuth"
+          ],
+          "description": "Contributed as Senior resource on migration engagement."
+        },
+        {
+          "project_name": "Microservices Decomposition",
+          "client": "SilverLake Capital",
+          "role": "Technical Project Manager",
+          "start_date": "2021-05-08",
+          "end_date": "2021-08-29",
+          "skills_used": [
+            "AWS",
+            "Airflow",
+            "ISO 27001",
+            "OAuth"
+          ],
+          "description": "Contributed as Senior resource on advisory engagement."
+        },
+        {
+          "project_name": "Identity Management Overhaul",
+          "client": "Redwood Analytics",
+          "role": "Front-End Developer",
+          "start_date": "2021-01-18",
+          "end_date": "2021-05-01",
+          "skills_used": [
+            "Airflow",
+            "OAuth",
+            "Looker",
+            "AWS"
+          ],
+          "description": "Contributed as Senior resource on implementation engagement."
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP-1020",
+      "full_name": "Eli Walker",
+      "email": "eli.walker@improving.com",
+      "practice_area": "Quality Engineering",
+      "seniority": "Principal",
+      "skills": [
+        "Docker",
+        "Amazon Web Services",
+        "ECS",
+        "OAuth"
+      ],
+      "certifications": [
+        "Databricks Data Engineer Associate",
+        "TOGAF Certified",
+        "AWS Developer - Associate"
+      ],
+      "years_of_experience": 10,
+      "bio": "Eli Walker is a principal consultant in the Quality Engineering practice with 10 years of experience. Core competencies include Docker, Amazon Web Services, ECS, OAuth.",
+      "project_history": [
+        {
+          "project_name": "Microservices Decomposition",
+          "client": "Redwood Analytics",
+          "role": "Data Engineer",
+          "start_date": "2022-08-27",
+          "end_date": "2023-03-04",
+          "skills_used": [
+            "Amazon Web Services",
+            "OAuth"
+          ],
+          "description": "Contributed as Principal resource on migration engagement."
+        },
+        {
+          "project_name": "Identity Management Overhaul",
+          "client": "Pinnacle Manufacturing",
+          "role": "Cybersecurity Analyst",
+          "start_date": "2021-07-13",
+          "end_date": "2021-11-13",
+          "skills_used": [
+            "OAuth",
+            "Amazon Web Services",
+            "ECS"
+          ],
+          "description": "Contributed as Principal resource on modernization engagement."
+        },
+        {
+          "project_name": "Real-Time Analytics Platform",
+          "client": "SilverLake Capital",
+          "role": "Site Reliability Engineer",
+          "start_date": "2021-02-16",
+          "end_date": "2021-05-09",
+          "skills_used": [
+            "Docker",
+            "Amazon Web Services"
+          ],
+          "description": "Contributed as Principal resource on optimization engagement."
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP-1021",
+      "full_name": "Maria Hall",
+      "email": "maria.hall@improving.com",
+      "practice_area": "ERP & Business Systems",
+      "seniority": "Lead",
+      "skills": [
+        "GitLab CI",
+        "SAP",
+        "SAP S/4HANA",
+        "Dynamics 365",
+        "SAFe",
+        "Performance Testing",
+        "Postman",
+        "Selenium"
+      ],
+      "certifications": [
+        "CompTIA Security+",
+        "TOGAF Certified",
+        "Snowflake SnowPro Core"
+      ],
+      "years_of_experience": 8,
+      "bio": "Maria Hall is a lead consultant in the ERP & Business Systems practice with 8 years of experience. Core competencies include GitLab CI, SAP, SAP S/4HANA, Dynamics 365.",
+      "project_history": [
+        {
+          "project_name": "Kubernetes Platform Build",
+          "client": "Meridian Health Systems",
+          "role": "ERP Consultant",
+          "start_date": "2024-01-09",
+          "end_date": "2024-10-13",
+          "skills_used": [
+            "Selenium",
+            "SAP S/4HANA"
+          ],
+          "description": "Contributed as Lead resource on migration engagement."
+        },
+        {
+          "project_name": "Identity Management Overhaul",
+          "client": "Pinnacle Manufacturing",
+          "role": "Back-End Developer",
+          "start_date": "2023-06-13",
+          "end_date": "2024-03-21",
+          "skills_used": [
+            "GitLab CI",
+            "Selenium",
+            "Performance Testing"
+          ],
+          "description": "Contributed as Lead resource on advisory engagement."
+        },
+        {
+          "project_name": "Real-Time Analytics Platform",
+          "client": "BlueHorizon Insurance",
+          "role": "Data Scientist",
+          "start_date": "2023-01-22",
+          "end_date": "2023-08-20",
+          "skills_used": [
+            "SAP",
+            "GitLab CI",
+            "SAP S/4HANA"
+          ],
+          "description": "Contributed as Lead resource on optimization engagement."
+        },
+        {
+          "project_name": "Customer Portal Redesign",
+          "client": "CrestPoint Logistics",
+          "role": "Cloud Architect",
+          "start_date": "2022-01-22",
+          "end_date": "2022-12-13",
+          "skills_used": [
+            "SAP",
+            "Performance Testing",
+            "Dynamics 365"
+          ],
+          "description": "Contributed as Lead resource on advisory engagement."
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP-1022",
+      "full_name": "Priya Young",
+      "email": "priya.young@improving.com",
+      "practice_area": "Quality Engineering",
+      "seniority": "Lead",
+      "skills": [
+        "TestNG",
+        "Performance Testing",
+        "Postman",
+        "Project Management",
+        "SAFe",
+        "Client Engagement",
+        "Looker",
+        "Pulumi"
+      ],
+      "certifications": [
+        "Azure Solutions Architect (AZ-305)",
+        "Google Cloud Professional Cloud Architect",
+        "AWS Developer - Associate",
+        "CISSP"
+      ],
+      "years_of_experience": 8,
+      "bio": "Priya Young is a lead consultant in the Quality Engineering practice with 8 years of experience. Core competencies include TestNG, Performance Testing, Postman, Project Management.",
+      "project_history": [
+        {
+          "project_name": "Automated Testing Framework",
+          "client": "Summit Pharmaceuticals",
+          "role": "Security Engineer",
+          "start_date": "2020-10-19",
+          "end_date": "2021-07-30",
+          "skills_used": [
+            "Postman",
+            "TestNG"
+          ],
+          "description": "Contributed as Lead resource on migration engagement."
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP-1023",
+      "full_name": "Wei Allen",
+      "email": "wei.allen@improving.com",
+      "practice_area": "AI/ML",
+      "seniority": "Lead",
+      "skills": [
+        "Dynamics 365",
+        "SAP",
+        "Go",
+        "Rust",
+        "Python",
+        "Kubernetes",
+        "Azure Functions"
+      ],
+      "certifications": [
+        "Databricks Data Engineer Associate",
+        "AWS Solutions Architect - Associate",
+        "SAFe Agilist",
+        "PMP"
+      ],
+      "years_of_experience": 10,
+      "bio": "Wei Allen is a lead consultant in the AI/ML practice with 10 years of experience. Core competencies include Dynamics 365, SAP, Go, Rust.",
+      "project_history": [
+        {
+          "project_name": "Data Governance Framework",
+          "client": "SilverLake Capital",
+          "role": "Site Reliability Engineer",
+          "start_date": "2025-05-21",
+          "end_date": "2025-09-16",
+          "skills_used": [
+            "Kubernetes",
+            "SAP"
+          ],
+          "description": "Contributed as Lead resource on optimization engagement."
+        },
+        {
+          "project_name": "Mobile App Rewrite",
+          "client": "BrightPath Education",
+          "role": "Solutions Architect",
+          "start_date": "2024-04-11",
+          "end_date": "2024-07-19",
+          "skills_used": [
+            "SAP",
+            "Python",
+            "Go",
+            "Rust"
+          ],
+          "description": "Contributed as Lead resource on advisory engagement."
+        },
+        {
+          "project_name": "Kubernetes Platform Build",
+          "client": "Pinnacle Manufacturing",
+          "role": "Platform Engineer",
+          "start_date": "2022-02-23",
+          "end_date": "2023-02-08",
+          "skills_used": [
+            "Python",
+            "SAP"
+          ],
+          "description": "Contributed as Lead resource on modernization engagement."
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP-1024",
+      "full_name": "Aisha Wright",
+      "email": "aisha.wright@improving.com",
+      "practice_area": "ERP & Business Systems",
+      "seniority": "Architect",
+      "skills": [
+        "Performance Testing",
+        "Selenium",
+        "API Testing",
+        "Data Modeling",
+        "Snowflake",
+        "Apache Spark"
+      ],
+      "certifications": [
+        "PMP",
+        "Google Cloud Professional Cloud Architect",
+        "CompTIA Security+",
+        "ITIL v4 Foundation",
+        "Salesforce Administrator"
+      ],
+      "years_of_experience": 16,
+      "bio": "Aisha Wright is a architect consultant in the ERP & Business Systems practice with 16 years of experience. Core competencies include Performance Testing, Selenium, API Testing, Data Modeling.",
+      "project_history": [
+        {
+          "project_name": "Data Governance Framework",
+          "client": "NovaStar Retail",
+          "role": "DevOps Engineer",
+          "start_date": "2021-06-20",
+          "end_date": "2021-12-30",
+          "skills_used": [
+            "Data Modeling",
+            "Selenium",
+            "API Testing",
+            "Apache Spark"
+          ],
+          "description": "Contributed as Architect resource on advisory engagement."
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP-1025",
+      "full_name": "Carlos Scott",
+      "email": "carlos.scott@improving.com",
+      "practice_area": "Cybersecurity",
+      "seniority": "Lead",
+      "skills": [
+        "Amazon Web Services",
+        "Google Cloud Platform",
+        "Microsoft Azure",
+        "Cypress",
+        "Test Automation",
+        "Selenium",
+        "TypeScript"
+      ],
+      "certifications": [
+        "ServiceNow CSA"
+      ],
+      "years_of_experience": 8,
+      "bio": "Carlos Scott is a lead consultant in the Cybersecurity practice with 8 years of experience. Core competencies include Amazon Web Services, Google Cloud Platform, Microsoft Azure, Cypress.",
+      "project_history": [
+        {
+          "project_name": "Customer Portal Redesign",
+          "client": "SilverLake Capital",
+          "role": "Mobile Developer",
+          "start_date": "2022-07-14",
+          "end_date": "2022-12-09",
+          "skills_used": [
+            "Cypress",
+            "Amazon Web Services",
+            "Microsoft Azure",
+            "Test Automation"
+          ],
+          "description": "Contributed as Lead resource on migration engagement."
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP-1026",
+      "full_name": "Dmitri Adams",
+      "email": "dmitri.adams@improving.com",
+      "practice_area": "Quality Engineering",
+      "seniority": "Mid-Level",
+      "skills": [
+        "Feature Engineering",
+        "OpenAI API",
+        "ML",
+        "Looker",
+        "IAM"
+      ],
+      "certifications": [
+        "ITIL v4 Foundation",
+        "Certified Kubernetes Administrator (CKA)"
+      ],
+      "years_of_experience": 4,
+      "bio": "Dmitri Adams is a mid-level consultant in the Quality Engineering practice with 4 years of experience. Core competencies include Feature Engineering, OpenAI API, ML, Looker.",
+      "project_history": [
+        {
+          "project_name": "API Gateway Implementation",
+          "client": "NovaStar Retail",
+          "role": "Machine Learning Engineer",
+          "start_date": "2024-10-09",
+          "end_date": "2025-02-26",
+          "skills_used": [
+            "OpenAI API",
+            "ML",
+            "Looker",
+            "Feature Engineering"
+          ],
+          "description": "Contributed as Mid-Level resource on advisory engagement."
+        },
+        {
+          "project_name": "Kubernetes Platform Build",
+          "client": "Summit Pharmaceuticals",
+          "role": "Mobile Developer",
+          "start_date": "2024-06-06",
+          "end_date": "2025-04-14",
+          "skills_used": [
+            "ML",
+            "IAM"
+          ],
+          "description": "Contributed as Mid-Level resource on advisory engagement."
+        },
+        {
+          "project_name": "Data Governance Framework",
+          "client": "SilverLake Capital",
+          "role": "Business Analyst",
+          "start_date": "2023-06-07",
+          "end_date": "2023-09-19",
+          "skills_used": [
+            "ML",
+            "Looker"
+          ],
+          "description": "Contributed as Mid-Level resource on modernization engagement."
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP-1027",
+      "full_name": "Fatima Baker",
+      "email": "fatima.baker@improving.com",
+      "practice_area": "Cybersecurity",
+      "seniority": "Junior",
+      "skills": [
+        "AWS Lambda",
+        "Amazon Web Services",
+        "Scala",
+        ".NET",
+        "Python",
+        "BigQuery",
+        "Spark",
+        "SOC 2",
+        "OAuth"
+      ],
+      "certifications": [
+        "TOGAF Certified"
+      ],
+      "years_of_experience": 2,
+      "bio": "Fatima Baker is a junior consultant in the Cybersecurity practice with 2 years of experience. Core competencies include AWS Lambda, Amazon Web Services, Scala, .NET.",
+      "project_history": [
+        {
+          "project_name": "Real-Time Analytics Platform",
+          "client": "Ironclad Defense Corp",
+          "role": "Mobile Developer",
+          "start_date": "2024-09-28",
+          "end_date": "2025-01-06",
+          "skills_used": [
+            ".NET",
+            "Python",
+            "Amazon Web Services"
+          ],
+          "description": "Contributed as Junior resource on implementation engagement."
+        },
+        {
+          "project_name": "Performance Optimization Sprint",
+          "client": "Oceanview Hospitality",
+          "role": "Data Engineer",
+          "start_date": "2023-08-03",
+          "end_date": "2024-07-28",
+          "skills_used": [
+            "Scala",
+            "Spark"
+          ],
+          "description": "Contributed as Junior resource on implementation engagement."
+        },
+        {
+          "project_name": "Automated Testing Framework",
+          "client": "Pinnacle Manufacturing",
+          "role": "Back-End Developer",
+          "start_date": "2022-11-27",
+          "end_date": "2023-04-14",
+          "skills_used": [
+            "Scala",
+            "OAuth",
+            "SOC 2"
+          ],
+          "description": "Contributed as Junior resource on migration engagement."
+        },
+        {
+          "project_name": "Edge Computing Pilot",
+          "client": "Pinnacle Manufacturing",
+          "role": "Database Administrator",
+          "start_date": "2022-10-26",
+          "end_date": "2023-03-21",
+          "skills_used": [
+            "Scala",
+            "OAuth",
+            "BigQuery",
+            "Python"
+          ],
+          "description": "Contributed as Junior resource on implementation engagement."
+        },
+        {
+          "project_name": "Performance Optimization Sprint",
+          "client": "Pinnacle Manufacturing",
+          "role": "Machine Learning Engineer",
+          "start_date": "2020-05-31",
+          "end_date": "2020-10-02",
+          "skills_used": [
+            "Amazon Web Services",
+            "SOC 2",
+            ".NET"
+          ],
+          "description": "Contributed as Junior resource on optimization engagement."
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP-1028",
+      "full_name": "Hiroshi Green",
+      "email": "hiroshi.green@improving.com",
+      "practice_area": "Quality Engineering",
+      "seniority": "Principal",
+      "skills": [
+        "Splunk",
+        "scikit-learn",
+        "NLP",
+        "Confluence",
+        "Dynamics 365"
+      ],
+      "certifications": [
+        "CSM (Certified Scrum Master)",
+        "Certified Kubernetes Application Developer (CKAD)",
+        "PMP"
+      ],
+      "years_of_experience": 12,
+      "bio": "Hiroshi Green is a principal consultant in the Quality Engineering practice with 12 years of experience. Core competencies include Splunk, scikit-learn, NLP, Confluence.",
+      "project_history": [
+        {
+          "project_name": "Chatbot & NLP Integration",
+          "client": "CrestPoint Logistics",
+          "role": "Cloud Architect",
+          "start_date": "2020-06-15",
+          "end_date": "2020-09-06",
+          "skills_used": [
+            "Dynamics 365",
+            "NLP",
+            "Confluence",
+            "Splunk"
+          ],
+          "description": "Contributed as Principal resource on implementation engagement."
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP-1029",
+      "full_name": "Ingrid Nelson",
+      "email": "ingrid.nelson@improving.com",
+      "practice_area": "Cybersecurity",
+      "seniority": "Senior",
+      "skills": [
+        "Project Management",
+        "Puppet",
+        "Prometheus",
+        "Grafana"
+      ],
+      "certifications": [
+        "AWS Developer - Associate"
+      ],
+      "years_of_experience": 8,
+      "bio": "Ingrid Nelson is a senior consultant in the Cybersecurity practice with 8 years of experience. Core competencies include Project Management, Puppet, Prometheus, Grafana.",
+      "project_history": [
+        {
+          "project_name": "Identity Management Overhaul",
+          "client": "BlueHorizon Insurance",
+          "role": "Data Scientist",
+          "start_date": "2024-12-25",
+          "end_date": "2025-11-29",
+          "skills_used": [
+            "Prometheus",
+            "Puppet",
+            "Project Management"
+          ],
+          "description": "Contributed as Senior resource on implementation engagement."
+        },
+        {
+          "project_name": "Data Governance Framework",
+          "client": "Vanguard Telecom",
+          "role": "SAP Consultant",
+          "start_date": "2023-11-11",
+          "end_date": "2024-02-09",
+          "skills_used": [
+            "Grafana",
+            "Puppet"
+          ],
+          "description": "Contributed as Senior resource on migration engagement."
+        },
+        {
+          "project_name": "Identity Management Overhaul",
+          "client": "TerraVerde Energy",
+          "role": "Platform Engineer",
+          "start_date": "2023-05-27",
+          "end_date": "2023-10-07",
+          "skills_used": [
+            "Prometheus",
+            "Grafana",
+            "Puppet"
+          ],
+          "description": "Contributed as Senior resource on optimization engagement."
+        },
+        {
+          "project_name": "Zero Trust Architecture",
+          "client": "Vanguard Telecom",
+          "role": "QA Automation Engineer",
+          "start_date": "2023-02-24",
+          "end_date": "2023-06-18",
+          "skills_used": [
+            "Puppet",
+            "Grafana",
+            "Project Management"
+          ],
+          "description": "Contributed as Senior resource on advisory engagement."
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP-1030",
+      "full_name": "Jamal Hill",
+      "email": "jamal.hill@improving.com",
+      "practice_area": "DevOps & SRE",
+      "seniority": "Senior",
+      "skills": [
+        "Prometheus",
+        "Grafana",
+        "SOC 2",
+        "ISO 27001",
+        "Zero Trust",
+        "TensorFlow",
+        "Feature Engineering",
+        "TestNG",
+        "TDD"
+      ],
+      "certifications": [
+        "Salesforce Administrator"
+      ],
+      "years_of_experience": 5,
+      "bio": "Jamal Hill is a senior consultant in the DevOps & SRE practice with 5 years of experience. Core competencies include Prometheus, Grafana, SOC 2, ISO 27001.",
+      "project_history": [
+        {
+          "project_name": "ML Fraud Detection System",
+          "client": "Redwood Analytics",
+          "role": "Technical Project Manager",
+          "start_date": "2020-04-13",
+          "end_date": "2020-11-07",
+          "skills_used": [
+            "Feature Engineering",
+            "ISO 27001",
+            "TDD"
+          ],
+          "description": "Contributed as Senior resource on optimization engagement."
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP-1031",
+      "full_name": "Kenji Moore",
+      "email": "kenji.moore@improving.com",
+      "practice_area": "Application Development",
+      "seniority": "Architect",
+      "skills": [
+        "JMeter",
+        "Performance Testing",
+        "TDD",
+        "Splunk",
+        "Penetration Testing"
+      ],
+      "certifications": [
+        "Certified Kubernetes Application Developer (CKAD)",
+        "AWS Solutions Architect - Professional",
+        "TOGAF Certified"
+      ],
+      "years_of_experience": 12,
+      "bio": "Kenji Moore is a architect consultant in the Application Development practice with 12 years of experience. Core competencies include JMeter, Performance Testing, TDD, Splunk.",
+      "project_history": [
+        {
+          "project_name": "Data Lake Modernization",
+          "client": "Meridian Health Systems",
+          "role": "Scrum Master",
+          "start_date": "2025-04-19",
+          "end_date": "2026-01-05",
+          "skills_used": [
+            "Splunk",
+            "Performance Testing",
+            "JMeter",
+            "Penetration Testing"
+          ],
+          "description": "Contributed as Architect resource on modernization engagement."
+        },
+        {
+          "project_name": "Salesforce CPQ Implementation",
+          "client": "TerraVerde Energy",
+          "role": "Solutions Architect",
+          "start_date": "2023-05-08",
+          "end_date": "2024-03-03",
+          "skills_used": [
+            "Penetration Testing",
+            "JMeter",
+            "Splunk"
+          ],
+          "description": "Contributed as Architect resource on migration engagement."
+        },
+        {
+          "project_name": "Real-Time Analytics Platform",
+          "client": "Vanguard Telecom",
+          "role": "Senior Cloud Engineer",
+          "start_date": "2021-01-23",
+          "end_date": "2021-06-13",
+          "skills_used": [
+            "Penetration Testing",
+            "Splunk",
+            "Performance Testing"
+          ],
+          "description": "Contributed as Architect resource on implementation engagement."
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP-1032",
+      "full_name": "Lena Clark",
+      "email": "lena.clark@improving.com",
+      "practice_area": "Cybersecurity",
+      "seniority": "Principal",
+      "skills": [
+        "JMeter",
+        "AKS",
+        "CloudFormation",
+        "Playwright"
+      ],
+      "certifications": [
+        "Databricks Data Engineer Associate",
+        "AWS Developer - Associate",
+        "ServiceNow CSA",
+        "AWS Solutions Architect - Professional",
+        "Azure Solutions Architect (AZ-305)"
+      ],
+      "years_of_experience": 11,
+      "bio": "Lena Clark is a principal consultant in the Cybersecurity practice with 11 years of experience. Core competencies include JMeter, AKS, CloudFormation, Playwright.",
+      "project_history": [
+        {
+          "project_name": "Performance Optimization Sprint",
+          "client": "Meridian Health Systems",
+          "role": "Data Engineer",
+          "start_date": "2024-06-15",
+          "end_date": "2025-02-03",
+          "skills_used": [
+            "CloudFormation",
+            "JMeter",
+            "Playwright",
+            "AKS"
+          ],
+          "description": "Contributed as Principal resource on implementation engagement."
+        },
+        {
+          "project_name": "CI/CD Pipeline Overhaul",
+          "client": "Apex Financial Group",
+          "role": "Site Reliability Engineer",
+          "start_date": "2022-03-02",
+          "end_date": "2023-01-14",
+          "skills_used": [
+            "CloudFormation",
+            "Playwright",
+            "JMeter"
+          ],
+          "description": "Contributed as Principal resource on migration engagement."
+        },
+        {
+          "project_name": "Microservices Decomposition",
+          "client": "SilverLake Capital",
+          "role": "Scrum Master",
+          "start_date": "2022-01-19",
+          "end_date": "2022-04-12",
+          "skills_used": [
+            "JMeter",
+            "CloudFormation",
+            "Playwright"
+          ],
+          "description": "Contributed as Principal resource on implementation engagement."
+        },
+        {
+          "project_name": "Mobile App Rewrite",
+          "client": "Oceanview Hospitality",
+          "role": "Cloud Architect",
+          "start_date": "2020-10-07",
+          "end_date": "2021-05-25",
+          "skills_used": [
+            "Playwright",
+            "JMeter",
+            "CloudFormation"
+          ],
+          "description": "Contributed as Principal resource on migration engagement."
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP-1033",
+      "full_name": "Marco Lewis",
+      "email": "marco.lewis@improving.com",
+      "practice_area": "Cybersecurity",
+      "seniority": "Mid-Level",
+      "skills": [
+        "CloudFormation",
+        "Azure Functions",
+        "Pulumi",
+        "NetSuite",
+        "Confluence"
+      ],
+      "certifications": [],
+      "years_of_experience": 5,
+      "bio": "Marco Lewis is a mid-level consultant in the Cybersecurity practice with 5 years of experience. Core competencies include CloudFormation, Azure Functions, Pulumi, NetSuite.",
+      "project_history": [
+        {
+          "project_name": "Data Governance Framework",
+          "client": "Redwood Analytics",
+          "role": "Senior Cloud Engineer",
+          "start_date": "2022-03-15",
+          "end_date": "2022-10-14",
+          "skills_used": [
+            "Pulumi",
+            "NetSuite",
+            "Confluence",
+            "Azure Functions"
+          ],
+          "description": "Contributed as Mid-Level resource on migration engagement."
+        },
+        {
+          "project_name": "Cloud Migration Initiative",
+          "client": "Ironclad Defense Corp",
+          "role": "Front-End Developer",
+          "start_date": "2021-11-09",
+          "end_date": "2022-03-05",
+          "skills_used": [
+            "Confluence",
+            "Pulumi",
+            "NetSuite"
+          ],
+          "description": "Contributed as Mid-Level resource on migration engagement."
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP-1034",
+      "full_name": "Nadia Robinson",
+      "email": "nadia.robinson@improving.com",
+      "practice_area": "DevOps & SRE",
+      "seniority": "Architect",
+      "skills": [
+        "Azure",
+        "AKS",
+        "AWS",
+        "Elasticsearch",
+        "BigQuery",
+        "Agile",
+        "Scrum",
+        "Salesforce",
+        "NetSuite"
+      ],
+      "certifications": [
+        "Salesforce Administrator",
+        "Certified Kubernetes Administrator (CKA)"
+      ],
+      "years_of_experience": 18,
+      "bio": "Nadia Robinson is a architect consultant in the DevOps & SRE practice with 18 years of experience. Core competencies include Azure, AKS, AWS, Elasticsearch.",
+      "project_history": [
+        {
+          "project_name": "Cloud Migration Initiative",
+          "client": "Vanguard Telecom",
+          "role": "Technical Project Manager",
+          "start_date": "2024-08-09",
+          "end_date": "2025-02-09",
+          "skills_used": [
+            "AKS",
+            "Elasticsearch"
+          ],
+          "description": "Contributed as Architect resource on modernization engagement."
+        },
+        {
+          "project_name": "Performance Optimization Sprint",
+          "client": "CrestPoint Logistics",
+          "role": "Technical Project Manager",
+          "start_date": "2023-12-16",
+          "end_date": "2024-04-24",
+          "skills_used": [
+            "Elasticsearch",
+            "Agile",
+            "Salesforce",
+            "NetSuite"
+          ],
+          "description": "Contributed as Architect resource on advisory engagement."
+        },
+        {
+          "project_name": "Edge Computing Pilot",
+          "client": "Summit Pharmaceuticals",
+          "role": "Site Reliability Engineer",
+          "start_date": "2023-03-28",
+          "end_date": "2023-09-20",
+          "skills_used": [
+            "Azure",
+            "Salesforce",
+            "AKS",
+            "BigQuery"
+          ],
+          "description": "Contributed as Architect resource on advisory engagement."
+        },
+        {
+          "project_name": "Zero Trust Architecture",
+          "client": "Ironclad Defense Corp",
+          "role": "Front-End Developer",
+          "start_date": "2022-07-30",
+          "end_date": "2023-06-27",
+          "skills_used": [
+            "NetSuite",
+            "Agile",
+            "Salesforce"
+          ],
+          "description": "Contributed as Architect resource on advisory engagement."
+        },
+        {
+          "project_name": "Data Governance Framework",
+          "client": "Redwood Analytics",
+          "role": "ERP Consultant",
+          "start_date": "2020-11-06",
+          "end_date": "2021-08-04",
+          "skills_used": [
+            "Elasticsearch",
+            "Scrum",
+            "BigQuery",
+            "Salesforce"
+          ],
+          "description": "Contributed as Architect resource on implementation engagement."
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP-1035",
+      "full_name": "Omar White",
+      "email": "omar.white@improving.com",
+      "practice_area": "Application Development",
+      "seniority": "Architect",
+      "skills": [
+        "Kubernetes",
+        "Kotlin",
+        "Ruby",
+        "R"
+      ],
+      "certifications": [
+        "Snowflake SnowPro Core",
+        "Salesforce Administrator",
+        "Databricks Data Engineer Associate",
+        "CompTIA Security+"
+      ],
+      "years_of_experience": 18,
+      "bio": "Omar White is a architect consultant in the Application Development practice with 18 years of experience. Core competencies include Kubernetes, Kotlin, Ruby, R.",
+      "project_history": [
+        {
+          "project_name": "Chatbot & NLP Integration",
+          "client": "BrightPath Education",
+          "role": "Mobile Developer",
+          "start_date": "2021-10-11",
+          "end_date": "2022-08-12",
+          "skills_used": [
+            "Ruby",
+            "Kotlin",
+            "Kubernetes"
+          ],
+          "description": "Contributed as Architect resource on modernization engagement."
+        },
+        {
+          "project_name": "SAP S/4HANA Migration",
+          "client": "Cascade Utilities",
+          "role": "Integration Specialist",
+          "start_date": "2021-07-25",
+          "end_date": "2022-07-05",
+          "skills_used": [
+            "Kotlin",
+            "R",
+            "Ruby"
+          ],
+          "description": "Contributed as Architect resource on modernization engagement."
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP-1036",
+      "full_name": "Petra Harris",
+      "email": "petra.harris@improving.com",
+      "practice_area": "Cloud & Infrastructure",
+      "seniority": "Junior",
+      "skills": [
+        "MLOps",
+        "IAM",
+        "SIEM",
+        "Pen Testing",
+        "Python",
+        "Swift",
+        "Ruby",
+        "NetSuite"
+      ],
+      "certifications": [],
+      "years_of_experience": 2,
+      "bio": "Petra Harris is a junior consultant in the Cloud & Infrastructure practice with 2 years of experience. Core competencies include MLOps, IAM, SIEM, Pen Testing.",
+      "project_history": [
+        {
+          "project_name": "Chatbot & NLP Integration",
+          "client": "NovaStar Retail",
+          "role": "QA Automation Engineer",
+          "start_date": "2025-03-25",
+          "end_date": "2026-03-07",
+          "skills_used": [
+            "Python",
+            "IAM",
+            "MLOps",
+            "NetSuite"
+          ],
+          "description": "Contributed as Junior resource on implementation engagement."
+        },
+        {
+          "project_name": "SAP S/4HANA Migration",
+          "client": "Redwood Analytics",
+          "role": "Mobile Developer",
+          "start_date": "2025-03-07",
+          "end_date": "2025-12-18",
+          "skills_used": [
+            "Python",
+            "Swift",
+            "Pen Testing",
+            "IAM"
+          ],
+          "description": "Contributed as Junior resource on migration engagement."
+        },
+        {
+          "project_name": "Real-Time Analytics Platform",
+          "client": "Cascade Utilities",
+          "role": "Full Stack Developer",
+          "start_date": "2024-08-03",
+          "end_date": "2025-03-27",
+          "skills_used": [
+            "Python",
+            "MLOps"
+          ],
+          "description": "Contributed as Junior resource on migration engagement."
+        },
+        {
+          "project_name": "API Gateway Implementation",
+          "client": "CrestPoint Logistics",
+          "role": "Technical Project Manager",
+          "start_date": "2023-10-03",
+          "end_date": "2024-08-29",
+          "skills_used": [
+            "Pen Testing",
+            "MLOps"
+          ],
+          "description": "Contributed as Junior resource on modernization engagement."
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP-1037",
+      "full_name": "Raj Martin",
+      "email": "raj.martin@improving.com",
+      "practice_area": "AI/ML",
+      "seniority": "Lead",
+      "skills": [
+        "TensorFlow",
+        "AKS",
+        "GCP",
+        "Dynamics 365",
+        "Jira",
+        "SAP"
+      ],
+      "certifications": [
+        "Snowflake SnowPro Core",
+        "AWS Solutions Architect - Associate",
+        "Salesforce Administrator",
+        "CompTIA Security+"
+      ],
+      "years_of_experience": 9,
+      "bio": "Raj Martin is a lead consultant in the AI/ML practice with 9 years of experience. Core competencies include TensorFlow, AKS, GCP, Dynamics 365.",
+      "project_history": [
+        {
+          "project_name": "Salesforce CPQ Implementation",
+          "client": "BrightPath Education",
+          "role": "Front-End Developer",
+          "start_date": "2023-10-27",
+          "end_date": "2024-03-05",
+          "skills_used": [
+            "Jira",
+            "AKS"
+          ],
+          "description": "Contributed as Lead resource on modernization engagement."
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP-1038",
+      "full_name": "Sofia Jackson",
+      "email": "sofia.jackson@improving.com",
+      "practice_area": "Cloud & Infrastructure",
+      "seniority": "Lead",
+      "skills": [
+        "NLP",
+        "Performance Testing",
+        "Jest",
+        "Client Engagement",
+        "Technical Writing",
+        "GitHub Actions",
+        "Jenkins"
+      ],
+      "certifications": [
+        "AWS Developer - Associate",
+        "Certified Kubernetes Administrator (CKA)",
+        "Azure Administrator (AZ-104)",
+        "CompTIA Security+"
+      ],
+      "years_of_experience": 9,
+      "bio": "Sofia Jackson is a lead consultant in the Cloud & Infrastructure practice with 9 years of experience. Core competencies include NLP, Performance Testing, Jest, Client Engagement.",
+      "project_history": [
+        {
+          "project_name": "Customer Portal Redesign",
+          "client": "BrightPath Education",
+          "role": "Database Administrator",
+          "start_date": "2024-03-28",
+          "end_date": "2024-10-21",
+          "skills_used": [
+            "Jest",
+            "GitHub Actions",
+            "NLP"
+          ],
+          "description": "Contributed as Lead resource on advisory engagement."
+        },
+        {
+          "project_name": "Data Lake Modernization",
+          "client": "Redwood Analytics",
+          "role": "Site Reliability Engineer",
+          "start_date": "2022-12-31",
+          "end_date": "2023-03-20",
+          "skills_used": [
+            "Client Engagement",
+            "Performance Testing"
+          ],
+          "description": "Contributed as Lead resource on modernization engagement."
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP-1039",
+      "full_name": "Tom\u00e1s Davis",
+      "email": "tom\u00e1s.davis@improving.com",
+      "practice_area": "Application Development",
+      "seniority": "Junior",
+      "skills": [
+        "Penetration Testing",
+        "NIST",
+        "SAFe",
+        "Project Management",
+        "Scrum",
+        "Grafana",
+        "Helm",
+        "GitLab CI",
+        "Salesforce"
+      ],
+      "certifications": [
+        "Azure Solutions Architect (AZ-305)"
+      ],
+      "years_of_experience": 2,
+      "bio": "Tom\u00e1s Davis is a junior consultant in the Application Development practice with 2 years of experience. Core competencies include Penetration Testing, NIST, SAFe, Project Management.",
+      "project_history": [
+        {
+          "project_name": "Chatbot & NLP Integration",
+          "client": "Ironclad Defense Corp",
+          "role": "DevOps Engineer",
+          "start_date": "2025-04-02",
+          "end_date": "2025-10-27",
+          "skills_used": [
+            "Penetration Testing",
+            "Scrum"
+          ],
+          "description": "Contributed as Junior resource on migration engagement."
+        },
+        {
+          "project_name": "Kubernetes Platform Build",
+          "client": "BlueHorizon Insurance",
+          "role": "SAP Consultant",
+          "start_date": "2021-08-05",
+          "end_date": "2022-05-24",
+          "skills_used": [
+            "Salesforce",
+            "GitLab CI",
+            "NIST",
+            "Scrum"
+          ],
+          "description": "Contributed as Junior resource on implementation engagement."
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP-1040",
+      "full_name": "Uma Wilson",
+      "email": "uma.wilson@improving.com",
+      "practice_area": "Quality Engineering",
+      "seniority": "Lead",
+      "skills": [
+        "Project Management",
+        "Technical Writing",
+        "Confluence",
+        "CI/CD",
+        "Shell Scripting"
+      ],
+      "certifications": [
+        "ITIL v4 Foundation",
+        "Azure Solutions Architect (AZ-305)",
+        "Databricks Data Engineer Associate",
+        "AWS Solutions Architect - Professional"
+      ],
+      "years_of_experience": 12,
+      "bio": "Uma Wilson is a lead consultant in the Quality Engineering practice with 12 years of experience. Core competencies include Project Management, Technical Writing, Confluence, CI/CD.",
+      "project_history": [
+        {
+          "project_name": "Identity Management Overhaul",
+          "client": "BrightPath Education",
+          "role": "DevOps Engineer",
+          "start_date": "2020-12-25",
+          "end_date": "2021-09-18",
+          "skills_used": [
+            "Shell Scripting",
+            "Confluence",
+            "Project Management"
+          ],
+          "description": "Contributed as Lead resource on advisory engagement."
+        },
+        {
+          "project_name": "Real-Time Analytics Platform",
+          "client": "Ironclad Defense Corp",
+          "role": "MLOps Engineer",
+          "start_date": "2020-11-28",
+          "end_date": "2021-09-18",
+          "skills_used": [
+            "Confluence",
+            "Technical Writing",
+            "Project Management",
+            "CI/CD"
+          ],
+          "description": "Contributed as Lead resource on advisory engagement."
+        },
+        {
+          "project_name": "Identity Management Overhaul",
+          "client": "NovaStar Retail",
+          "role": "Data Scientist",
+          "start_date": "2020-10-14",
+          "end_date": "2021-08-14",
+          "skills_used": [
+            "Technical Writing",
+            "Project Management",
+            "Shell Scripting"
+          ],
+          "description": "Contributed as Lead resource on migration engagement."
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP-1041",
+      "full_name": "Viktor Taylor",
+      "email": "viktor.taylor@improving.com",
+      "practice_area": "AI/ML",
+      "seniority": "Mid-Level",
+      "skills": [
+        "GCP",
+        "Terraform",
+        "ECS",
+        "Jest",
+        "Cypress",
+        "Postman",
+        ".NET",
+        "R"
+      ],
+      "certifications": [
+        "ITIL v4 Foundation"
+      ],
+      "years_of_experience": 5,
+      "bio": "Viktor Taylor is a mid-level consultant in the AI/ML practice with 5 years of experience. Core competencies include GCP, Terraform, ECS, Jest.",
+      "project_history": [
+        {
+          "project_name": "Automated Testing Framework",
+          "client": "TerraVerde Energy",
+          "role": "Front-End Developer",
+          "start_date": "2023-11-14",
+          "end_date": "2024-03-13",
+          "skills_used": [
+            "Cypress",
+            "ECS",
+            "R",
+            "Terraform"
+          ],
+          "description": "Contributed as Mid-Level resource on advisory engagement."
+        },
+        {
+          "project_name": "Performance Optimization Sprint",
+          "client": "Oceanview Hospitality",
+          "role": "Integration Specialist",
+          "start_date": "2022-08-11",
+          "end_date": "2023-03-16",
+          "skills_used": [
+            ".NET",
+            "Postman"
+          ],
+          "description": "Contributed as Mid-Level resource on migration engagement."
+        },
+        {
+          "project_name": "Automated Testing Framework",
+          "client": "Meridian Health Systems",
+          "role": "MLOps Engineer",
+          "start_date": "2021-09-10",
+          "end_date": "2022-09-03",
+          "skills_used": [
+            "GCP",
+            "ECS",
+            "Postman",
+            ".NET"
+          ],
+          "description": "Contributed as Mid-Level resource on implementation engagement."
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP-1042",
+      "full_name": "Ximena Thomas",
+      "email": "ximena.thomas@improving.com",
+      "practice_area": "Quality Engineering",
+      "seniority": "Architect",
+      "skills": [
+        "Kubernetes",
+        "Microsoft Azure",
+        "AWS Lambda",
+        "Puppet"
+      ],
+      "certifications": [
+        "AWS Solutions Architect - Professional",
+        "PMP"
+      ],
+      "years_of_experience": 16,
+      "bio": "Ximena Thomas is a architect consultant in the Quality Engineering practice with 16 years of experience. Core competencies include Kubernetes, Microsoft Azure, AWS Lambda, Puppet.",
+      "project_history": [
+        {
+          "project_name": "Automated Testing Framework",
+          "client": "BrightPath Education",
+          "role": "Cloud Architect",
+          "start_date": "2024-03-11",
+          "end_date": "2024-11-17",
+          "skills_used": [
+            "Puppet",
+            "AWS Lambda",
+            "Kubernetes"
+          ],
+          "description": "Contributed as Architect resource on implementation engagement."
+        },
+        {
+          "project_name": "Data Lake Modernization",
+          "client": "Vanguard Telecom",
+          "role": "Machine Learning Engineer",
+          "start_date": "2024-01-08",
+          "end_date": "2024-12-31",
+          "skills_used": [
+            "Kubernetes",
+            "AWS Lambda",
+            "Microsoft Azure"
+          ],
+          "description": "Contributed as Architect resource on optimization engagement."
+        },
+        {
+          "project_name": "Performance Optimization Sprint",
+          "client": "Vanguard Telecom",
+          "role": "DevOps Engineer",
+          "start_date": "2023-03-18",
+          "end_date": "2024-02-15",
+          "skills_used": [
+            "Microsoft Azure",
+            "Puppet"
+          ],
+          "description": "Contributed as Architect resource on advisory engagement."
+        },
+        {
+          "project_name": "Compliance Automation",
+          "client": "Oceanview Hospitality",
+          "role": "Back-End Developer",
+          "start_date": "2022-12-12",
+          "end_date": "2023-09-26",
+          "skills_used": [
+            "AWS Lambda",
+            "Kubernetes",
+            "Puppet",
+            "Microsoft Azure"
+          ],
+          "description": "Contributed as Architect resource on advisory engagement."
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP-1043",
+      "full_name": "Yuki Evans",
+      "email": "yuki.evans@improving.com",
+      "practice_area": "Cybersecurity",
+      "seniority": "Junior",
+      "skills": [
+        "Dynamics 365",
+        "Oracle ERP",
+        "Jira",
+        "Apache Spark",
+        "Azure Functions",
+        "Kubernetes",
+        "Docker"
+      ],
+      "certifications": [
+        "Certified Kubernetes Application Developer (CKAD)"
+      ],
+      "years_of_experience": 1,
+      "bio": "Yuki Evans is a junior consultant in the Cybersecurity practice with 1 years of experience. Core competencies include Dynamics 365, Oracle ERP, Jira, Apache Spark.",
+      "project_history": [
+        {
+          "project_name": "Identity Management Overhaul",
+          "client": "Apex Financial Group",
+          "role": "MLOps Engineer",
+          "start_date": "2024-04-17",
+          "end_date": "2025-01-17",
+          "skills_used": [
+            "Apache Spark",
+            "Docker",
+            "Kubernetes"
+          ],
+          "description": "Contributed as Junior resource on optimization engagement."
+        },
+        {
+          "project_name": "Real-Time Analytics Platform",
+          "client": "CrestPoint Logistics",
+          "role": "Cybersecurity Analyst",
+          "start_date": "2023-01-13",
+          "end_date": "2023-04-13",
+          "skills_used": [
+            "Apache Spark",
+            "Dynamics 365"
+          ],
+          "description": "Contributed as Junior resource on advisory engagement."
+        },
+        {
+          "project_name": "Real-Time Analytics Platform",
+          "client": "Cascade Utilities",
+          "role": "Senior Cloud Engineer",
+          "start_date": "2022-07-24",
+          "end_date": "2023-07-07",
+          "skills_used": [
+            "Azure Functions",
+            "Apache Spark"
+          ],
+          "description": "Contributed as Junior resource on modernization engagement."
+        },
+        {
+          "project_name": "Salesforce CPQ Implementation",
+          "client": "Pinnacle Manufacturing",
+          "role": "Integration Specialist",
+          "start_date": "2021-06-05",
+          "end_date": "2021-08-05",
+          "skills_used": [
+            "Oracle ERP",
+            "Azure Functions",
+            "Dynamics 365",
+            "Kubernetes"
+          ],
+          "description": "Contributed as Junior resource on implementation engagement."
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP-1044",
+      "full_name": "Zara Roberts",
+      "email": "zara.roberts@improving.com",
+      "practice_area": "Cloud & Infrastructure",
+      "seniority": "Architect",
+      "skills": [
+        "Technical Writing",
+        "Stakeholder Management",
+        "Redis",
+        "Power BI",
+        "Ruby",
+        "C#"
+      ],
+      "certifications": [
+        "ServiceNow CSA",
+        "Terraform Associate",
+        "TOGAF Certified",
+        "AWS Solutions Architect - Associate"
+      ],
+      "years_of_experience": 18,
+      "bio": "Zara Roberts is a architect consultant in the Cloud & Infrastructure practice with 18 years of experience. Core competencies include Technical Writing, Stakeholder Management, Redis, Power BI.",
+      "project_history": [
+        {
+          "project_name": "Compliance Automation",
+          "client": "CrestPoint Logistics",
+          "role": "Mobile Developer",
+          "start_date": "2024-09-05",
+          "end_date": "2024-11-05",
+          "skills_used": [
+            "Redis",
+            "Power BI"
+          ],
+          "description": "Contributed as Architect resource on modernization engagement."
+        },
+        {
+          "project_name": "Identity Management Overhaul",
+          "client": "SilverLake Capital",
+          "role": "Machine Learning Engineer",
+          "start_date": "2023-08-31",
+          "end_date": "2024-04-25",
+          "skills_used": [
+            "Stakeholder Management",
+            "Ruby"
+          ],
+          "description": "Contributed as Architect resource on advisory engagement."
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP-1045",
+      "full_name": "Amara Turner",
+      "email": "amara.turner@improving.com",
+      "practice_area": "ERP & Business Systems",
+      "seniority": "Architect",
+      "skills": [
+        "Swift",
+        "PHP",
+        "JMeter",
+        "NLP"
+      ],
+      "certifications": [
+        "Terraform Associate",
+        "CompTIA Security+"
+      ],
+      "years_of_experience": 13,
+      "bio": "Amara Turner is a architect consultant in the ERP & Business Systems practice with 13 years of experience. Core competencies include Swift, PHP, JMeter, NLP.",
+      "project_history": [
+        {
+          "project_name": "API Gateway Implementation",
+          "client": "Ironclad Defense Corp",
+          "role": "Data Engineer",
+          "start_date": "2023-06-13",
+          "end_date": "2023-08-20",
+          "skills_used": [
+            "PHP",
+            "Swift"
+          ],
+          "description": "Contributed as Architect resource on modernization engagement."
+        },
+        {
+          "project_name": "API Gateway Implementation",
+          "client": "Meridian Health Systems",
+          "role": "MLOps Engineer",
+          "start_date": "2021-05-21",
+          "end_date": "2022-03-12",
+          "skills_used": [
+            "PHP",
+            "NLP",
+            "Swift"
+          ],
+          "description": "Contributed as Architect resource on modernization engagement."
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP-1046",
+      "full_name": "Bao Phillips",
+      "email": "bao.phillips@improving.com",
+      "practice_area": "AI/ML",
+      "seniority": "Junior",
+      "skills": [
+        "ECS",
+        "Azure",
+        "CrowdStrike",
+        "Technical Writing"
+      ],
+      "certifications": [],
+      "years_of_experience": 2,
+      "bio": "Bao Phillips is a junior consultant in the AI/ML practice with 2 years of experience. Core competencies include ECS, Azure, CrowdStrike, Technical Writing.",
+      "project_history": [
+        {
+          "project_name": "Real-Time Analytics Platform",
+          "client": "CrestPoint Logistics",
+          "role": "Cybersecurity Analyst",
+          "start_date": "2024-05-28",
+          "end_date": "2025-04-21",
+          "skills_used": [
+            "Technical Writing",
+            "Azure",
+            "ECS"
+          ],
+          "description": "Contributed as Junior resource on optimization engagement."
+        },
+        {
+          "project_name": "Performance Optimization Sprint",
+          "client": "NovaStar Retail",
+          "role": "Business Analyst",
+          "start_date": "2024-05-01",
+          "end_date": "2024-12-11",
+          "skills_used": [
+            "CrowdStrike",
+            "ECS"
+          ],
+          "description": "Contributed as Junior resource on migration engagement."
+        },
+        {
+          "project_name": "Chatbot & NLP Integration",
+          "client": "Pinnacle Manufacturing",
+          "role": "Database Administrator",
+          "start_date": "2024-03-24",
+          "end_date": "2024-06-20",
+          "skills_used": [
+            "CrowdStrike",
+            "ECS"
+          ],
+          "description": "Contributed as Junior resource on optimization engagement."
+        },
+        {
+          "project_name": "Kubernetes Platform Build",
+          "client": "NovaStar Retail",
+          "role": "Mobile Developer",
+          "start_date": "2023-10-08",
+          "end_date": "2023-12-31",
+          "skills_used": [
+            "ECS",
+            "Azure"
+          ],
+          "description": "Contributed as Junior resource on advisory engagement."
+        },
+        {
+          "project_name": "Data Lake Modernization",
+          "client": "Pinnacle Manufacturing",
+          "role": "Security Engineer",
+          "start_date": "2021-07-17",
+          "end_date": "2021-10-16",
+          "skills_used": [
+            "Azure",
+            "CrowdStrike",
+            "Technical Writing",
+            "ECS"
+          ],
+          "description": "Contributed as Junior resource on modernization engagement."
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP-1047",
+      "full_name": "Celeste Campbell",
+      "email": "celeste.campbell@improving.com",
+      "practice_area": "Data & Analytics",
+      "seniority": "Lead",
+      "skills": [
+        "Dynamics 365",
+        "Natural Language Processing",
+        "Scrum",
+        "Playwright"
+      ],
+      "certifications": [
+        "Databricks Data Engineer Associate",
+        "AWS Solutions Architect - Associate"
+      ],
+      "years_of_experience": 12,
+      "bio": "Celeste Campbell is a lead consultant in the Data & Analytics practice with 12 years of experience. Core competencies include Dynamics 365, Natural Language Processing, Scrum, Playwright.",
+      "project_history": [
+        {
+          "project_name": "Zero Trust Architecture",
+          "client": "CrestPoint Logistics",
+          "role": "MLOps Engineer",
+          "start_date": "2024-09-30",
+          "end_date": "2025-06-06",
+          "skills_used": [
+            "Natural Language Processing",
+            "Dynamics 365"
+          ],
+          "description": "Contributed as Lead resource on optimization engagement."
+        },
+        {
+          "project_name": "Compliance Automation",
+          "client": "NovaStar Retail",
+          "role": "Front-End Developer",
+          "start_date": "2023-05-19",
+          "end_date": "2023-08-07",
+          "skills_used": [
+            "Natural Language Processing",
+            "Scrum"
+          ],
+          "description": "Contributed as Lead resource on advisory engagement."
+        },
+        {
+          "project_name": "Mobile App Rewrite",
+          "client": "BrightPath Education",
+          "role": "Full Stack Developer",
+          "start_date": "2022-12-21",
+          "end_date": "2023-04-28",
+          "skills_used": [
+            "Natural Language Processing",
+            "Playwright",
+            "Dynamics 365"
+          ],
+          "description": "Contributed as Lead resource on modernization engagement."
+        },
+        {
+          "project_name": "Compliance Automation",
+          "client": "CrestPoint Logistics",
+          "role": "Business Analyst",
+          "start_date": "2021-05-08",
+          "end_date": "2021-10-30",
+          "skills_used": [
+            "Natural Language Processing",
+            "Playwright",
+            "Dynamics 365"
+          ],
+          "description": "Contributed as Lead resource on optimization engagement."
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP-1048",
+      "full_name": "Dante Parker",
+      "email": "dante.parker@improving.com",
+      "practice_area": "AI/ML",
+      "seniority": "Principal",
+      "skills": [
+        "Kubernetes",
+        "Docker",
+        "Terraform",
+        "Jest"
+      ],
+      "certifications": [
+        "Salesforce Administrator",
+        "Azure Solutions Architect (AZ-305)",
+        "SAFe Agilist"
+      ],
+      "years_of_experience": 11,
+      "bio": "Dante Parker is a principal consultant in the AI/ML practice with 11 years of experience. Core competencies include Kubernetes, Docker, Terraform, Jest.",
+      "project_history": [
+        {
+          "project_name": "Real-Time Analytics Platform",
+          "client": "CrestPoint Logistics",
+          "role": "Data Scientist",
+          "start_date": "2023-11-25",
+          "end_date": "2024-05-07",
+          "skills_used": [
+            "Docker",
+            "Terraform",
+            "Jest"
+          ],
+          "description": "Contributed as Principal resource on optimization engagement."
+        },
+        {
+          "project_name": "Kubernetes Platform Build",
+          "client": "Apex Financial Group",
+          "role": "ERP Consultant",
+          "start_date": "2023-08-21",
+          "end_date": "2024-04-20",
+          "skills_used": [
+            "Terraform",
+            "Docker",
+            "Jest"
+          ],
+          "description": "Contributed as Principal resource on modernization engagement."
+        },
+        {
+          "project_name": "API Gateway Implementation",
+          "client": "Cascade Utilities",
+          "role": "Front-End Developer",
+          "start_date": "2021-09-12",
+          "end_date": "2021-11-18",
+          "skills_used": [
+            "Docker",
+            "Terraform"
+          ],
+          "description": "Contributed as Principal resource on advisory engagement."
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP-1049",
+      "full_name": "Elena Stewart",
+      "email": "elena.stewart@improving.com",
+      "practice_area": "AI/ML",
+      "seniority": "Lead",
+      "skills": [
+        "SAFe",
+        "Project Management",
+        "Technical Writing",
+        "NetSuite",
+        "ISO 27001",
+        "Pen Testing",
+        "SIEM",
+        "TensorFlow",
+        "NLP",
+        "scikit-learn"
+      ],
+      "certifications": [
+        "AWS Solutions Architect - Professional",
+        "SAFe Agilist",
+        "Certified Kubernetes Application Developer (CKAD)"
+      ],
+      "years_of_experience": 7,
+      "bio": "Elena Stewart is a lead consultant in the AI/ML practice with 7 years of experience. Core competencies include SAFe, Project Management, Technical Writing, NetSuite.",
+      "project_history": [
+        {
+          "project_name": "Chatbot & NLP Integration",
+          "client": "Redwood Analytics",
+          "role": "QA Automation Engineer",
+          "start_date": "2025-02-15",
+          "end_date": "2025-07-29",
+          "skills_used": [
+            "Pen Testing",
+            "SIEM",
+            "SAFe"
+          ],
+          "description": "Contributed as Lead resource on advisory engagement."
+        },
+        {
+          "project_name": "Data Governance Framework",
+          "client": "Cascade Utilities",
+          "role": "Security Engineer",
+          "start_date": "2023-03-12",
+          "end_date": "2023-09-13",
+          "skills_used": [
+            "NLP",
+            "Pen Testing",
+            "ISO 27001"
+          ],
+          "description": "Contributed as Lead resource on modernization engagement."
+        },
+        {
+          "project_name": "SAP S/4HANA Migration",
+          "client": "Pinnacle Manufacturing",
+          "role": "QA Automation Engineer",
+          "start_date": "2020-02-03",
+          "end_date": "2020-08-14",
+          "skills_used": [
+            "scikit-learn",
+            "SIEM",
+            "ISO 27001",
+            "Project Management"
+          ],
+          "description": "Contributed as Lead resource on modernization engagement."
+        }
+      ]
+    }
+  ]
+}

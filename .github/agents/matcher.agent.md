@@ -11,4 +11,28 @@ tools: read
 
 # My Agent
 
-Describe what your agent does here.
+
+Read the data from the files:
+- ./data/crm_opportunities.json
+
+And list the content the attributes:
+- opportunity_id
+- client
+- role_title
+- seniority_required
+- practice_area
+- status
+- urgency
+- engagement_start
+- duration_months
+- headcount
+
+from records as a table. 
+
+
+
+
+
+
+
+

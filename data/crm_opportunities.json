@@ -1,0 +1,611 @@
+{
+  "_metadata": {
+    "description": "CRM \u2014 Open opportunities and client requirements with skill/certification needs, urgency, and headcount.",
+    "generated": "2026-03-26",
+    "record_count": 20,
+    "purpose": "AI Hackathon 2026 \u2014 Resume Matching & Supply/Demand Challenge",
+    "note": "This is synthetic data generated for hackathon use only. All names, companies, and records are fictional."
+  },
+  "records": [
+    {
+      "opportunity_id": "OPP-2000",
+      "client": "Apex Financial Group",
+      "role_title": "Solutions Architect",
+      "seniority_required": "Mid-Level",
+      "practice_area": "DevOps & SRE",
+      "region": "EMEA",
+      "status": "On Hold",
+      "urgency": "Flexible",
+      "required_skills": [
+        "JS",
+        "React",
+        "Node.js",
+        "Postgres",
+        "AWS"
+      ],
+      "nice_to_have_skills": [
+        "Pen Testing",
+        "ML"
+      ],
+      "required_certifications": [
+        "Databricks Data Engineer Associate",
+        "CSM (Certified Scrum Master)"
+      ],
+      "engagement_start": "2026-05-31",
+      "duration_months": 3,
+      "headcount": 1,
+      "description": "Seeking a senior full stack developer for a 6-month portal rebuild. Must have strong JS, React, Node.js, Postgres, and AWS experience. Pen testing and ML experience a plus.",
+      "remote_eligible": false,
+      "travel_required": "None"
+    },
+    {
+      "opportunity_id": "OPP-2001",
+      "client": "Summit Pharmaceuticals",
+      "role_title": "Integration Specialist",
+      "seniority_required": "Junior",
+      "practice_area": "AI/ML",
+      "region": "North America - East",
+      "status": "On Hold",
+      "urgency": "Flexible",
+      "required_skills": [
+        "Hugging Face",
+        "Scrum",
+        "Google Cloud Platform",
+        "NLP",
+        "Redis",
+        "Pulumi"
+      ],
+      "nice_to_have_skills": [
+        ".NET",
+        "Workday HCM"
+      ],
+      "required_certifications": [
+        "Databricks Data Engineer Associate"
+      ],
+      "engagement_start": "2026-06-07",
+      "duration_months": 9,
+      "headcount": 1,
+      "description": "Seeking a junior integration specialist for a 9-month engagement with Summit Pharmaceuticals. The ideal candidate will have strong experience in Hugging Face, Scrum, Google Cloud Platform.",
+      "remote_eligible": false,
+      "travel_required": "Occasional (<25%)"
+    },
+    {
+      "opportunity_id": "OPP-2002",
+      "client": "Redwood Analytics",
+      "role_title": "Data Scientist",
+      "seniority_required": "Principal",
+      "practice_area": "Cybersecurity",
+      "region": "North America - West",
+      "status": "On Hold",
+      "urgency": "Flexible",
+      "required_skills": [
+        "Airflow",
+        "Go",
+        "Jest",
+        "PHP",
+        "Kubernetes",
+        "R"
+      ],
+      "nice_to_have_skills": [
+        "Scrum",
+        "CloudFormation",
+        "IAM"
+      ],
+      "required_certifications": [
+        "Snowflake SnowPro Core",
+        "Databricks Data Engineer Associate"
+      ],
+      "engagement_start": "2026-05-23",
+      "duration_months": 12,
+      "headcount": 1,
+      "description": "Seeking a principal data scientist for a 12-month engagement with Redwood Analytics. The ideal candidate will have strong experience in Airflow, Go, Jest.",
+      "remote_eligible": true,
+      "travel_required": "None"
+    },
+    {
+      "opportunity_id": "OPP-2003",
+      "client": "Summit Pharmaceuticals",
+      "role_title": "QA Automation Engineer",
+      "seniority_required": "Principal",
+      "practice_area": "Cybersecurity",
+      "region": "North America - East",
+      "status": "In Progress",
+      "urgency": "Within 2 Weeks",
+      "required_skills": [
+        "Rust",
+        "Kubernetes",
+        "MLOps",
+        "Terraform",
+        "Apache Spark"
+      ],
+      "nice_to_have_skills": [
+        "Scrum",
+        "Spark",
+        "Tableau"
+      ],
+      "required_certifications": [
+        "Certified Kubernetes Administrator (CKA)",
+        "Terraform Associate"
+      ],
+      "engagement_start": "2026-05-27",
+      "duration_months": 3,
+      "headcount": 2,
+      "description": "Rare unicorn role: Principal engineer for a greenfield ML platform. Requires Rust, Kubernetes, MLOps, Terraform, and Spark. CKA and Terraform Associate certs mandatory.",
+      "remote_eligible": true,
+      "travel_required": "Occasional (<25%)"
+    },
+    {
+      "opportunity_id": "OPP-2004",
+      "client": "Redwood Analytics",
+      "role_title": "Integration Specialist",
+      "seniority_required": "Principal",
+      "practice_area": "ERP & Business Systems",
+      "region": "APAC",
+      "status": "In Progress",
+      "urgency": "Flexible",
+      "required_skills": [
+        "Databricks",
+        "Chef",
+        "Grafana",
+        "Ansible"
+      ],
+      "nice_to_have_skills": [
+        "Natural Language Processing",
+        "Machine Learning",
+        "Client Engagement"
+      ],
+      "required_certifications": [
+        "Azure Solutions Architect (AZ-305)",
+        "Certified Kubernetes Administrator (CKA)"
+      ],
+      "engagement_start": "2026-04-19",
+      "duration_months": 9,
+      "headcount": 1,
+      "description": "Seeking a principal integration specialist for a 9-month engagement with Redwood Analytics. The ideal candidate will have strong experience in Databricks, Chef, Grafana.",
+      "remote_eligible": true,
+      "travel_required": "Occasional (<25%)"
+    },
+    {
+      "opportunity_id": "OPP-2005",
+      "client": "BrightPath Education",
+      "role_title": "Business Analyst",
+      "seniority_required": "Lead",
+      "practice_area": "Data & Analytics",
+      "region": "LATAM",
+      "status": "On Hold",
+      "urgency": "Flexible",
+      "required_skills": [
+        "SOC 2",
+        "CloudFormation",
+        "SAP",
+        "Hugging Face",
+        "NIST",
+        "Splunk"
+      ],
+      "nice_to_have_skills": [
+        "CrowdStrike",
+        "MLOps",
+        "Agile"
+      ],
+      "required_certifications": [],
+      "engagement_start": "2026-07-28",
+      "duration_months": 6,
+      "headcount": 1,
+      "description": "Seeking a lead business analyst for a 6-month engagement with BrightPath Education. The ideal candidate will have strong experience in SOC 2, CloudFormation, SAP.",
+      "remote_eligible": false,
+      "travel_required": "None"
+    },
+    {
+      "opportunity_id": "OPP-2006",
+      "client": "Cascade Utilities",
+      "role_title": "Machine Learning Engineer",
+      "seniority_required": "Architect",
+      "practice_area": "Application Development",
+      "region": "North America - Central",
+      "status": "In Progress",
+      "urgency": "Flexible",
+      "required_skills": [
+        "AWS Lambda",
+        "MLOps",
+        "Deep Learning",
+        "Machine Learning",
+        "Looker",
+        "Tableau"
+      ],
+      "nice_to_have_skills": [
+        "SQL",
+        "AKS",
+        "Scala"
+      ],
+      "required_certifications": [
+        "PMP",
+        "Azure Administrator (AZ-104)"
+      ],
+      "engagement_start": "2026-07-20",
+      "duration_months": 12,
+      "headcount": 1,
+      "description": "Seeking a architect machine learning engineer for a 12-month engagement with Cascade Utilities. The ideal candidate will have strong experience in AWS Lambda, MLOps, Deep Learning.",
+      "remote_eligible": false,
+      "travel_required": "None"
+    },
+    {
+      "opportunity_id": "OPP-2007",
+      "client": "Cascade Utilities",
+      "role_title": "DevOps Engineer",
+      "seniority_required": "Junior",
+      "practice_area": "AI/ML",
+      "region": "APAC",
+      "status": "On Hold",
+      "urgency": "Within 30 Days",
+      "required_skills": [
+        "SAP",
+        "SAP S/4HANA",
+        "Dynamics 365"
+      ],
+      "nice_to_have_skills": [
+        "Computer Vision",
+        "JUnit"
+      ],
+      "required_certifications": [],
+      "engagement_start": "2026-04-18",
+      "duration_months": 3,
+      "headcount": 3,
+      "description": "Seeking a junior devops engineer for a 3-month engagement with Cascade Utilities. The ideal candidate will have strong experience in Kafka, Jira, Selenium.",
+      "remote_eligible": false,
+      "travel_required": "Moderate (25-50%)"
+    },
+    {
+      "opportunity_id": "OPP-2008",
+      "client": "NovaStar Retail",
+      "role_title": "Solutions Architect",
+      "seniority_required": "Architect",
+      "practice_area": "DevOps & SRE",
+      "region": "North America - East",
+      "status": "Open",
+      "urgency": "Within 30 Days",
+      "required_skills": [
+        "SAP",
+        "Penetration Testing",
+        "Zero Trust",
+        "TypeScript",
+        "scikit-learn",
+        "SQL"
+      ],
+      "nice_to_have_skills": [
+        "Team Leadership",
+        "Stakeholder Management",
+        "PyTorch"
+      ],
+      "required_certifications": [],
+      "engagement_start": "2026-06-15",
+      "duration_months": 3,
+      "headcount": 1,
+      "description": "Seeking a architect solutions architect for a 3-month engagement with NovaStar Retail. The ideal candidate will have strong experience in SAP, Penetration Testing, Zero Trust.",
+      "remote_eligible": true,
+      "travel_required": "Moderate (25-50%)"
+    },
+    {
+      "opportunity_id": "OPP-2009",
+      "client": "SilverLake Capital",
+      "role_title": "Scrum Master",
+      "seniority_required": "Architect",
+      "practice_area": "ERP & Business Systems",
+      "region": "APAC",
+      "status": "Open",
+      "urgency": "Flexible",
+      "required_skills": [
+        "Jira",
+        "Oracle ERP",
+        "Salesforce",
+        "Kubernetes",
+        "LLMs"
+      ],
+      "nice_to_have_skills": [
+        "Apache Spark",
+        "Data Modeling",
+        "Feature Engineering"
+      ],
+      "required_certifications": [],
+      "engagement_start": "2026-07-28",
+      "duration_months": 12,
+      "headcount": 1,
+      "description": "Seeking a architect scrum master for a 12-month engagement with SilverLake Capital. The ideal candidate will have strong experience in Jira, Oracle ERP, Salesforce.",
+      "remote_eligible": true,
+      "travel_required": "Occasional (<25%)"
+    },
+    {
+      "opportunity_id": "OPP-2010",
+      "client": "BrightPath Education",
+      "role_title": "ERP Consultant",
+      "seniority_required": "Mid-Level",
+      "practice_area": "Application Development",
+      "region": "APAC",
+      "status": "In Progress",
+      "urgency": "Within 30 Days",
+      "required_skills": [
+        "Python",
+        "SQL"
+      ],
+      "nice_to_have_skills": [
+        "Agile"
+      ],
+      "required_certifications": [
+        "ServiceNow CSA"
+      ],
+      "engagement_start": "2026-04-22",
+      "duration_months": 9,
+      "headcount": 2,
+      "description": "General-purpose data role \u2014 needs Python and SQL. Agile experience a bonus. This should match many consultants.",
+      "remote_eligible": true,
+      "travel_required": "None"
+    },
+    {
+      "opportunity_id": "OPP-2011",
+      "client": "NovaStar Retail",
+      "role_title": "ERP Consultant",
+      "seniority_required": "Principal",
+      "practice_area": "Cloud & Infrastructure",
+      "region": "North America - East",
+      "status": "Submitted",
+      "urgency": "Immediate",
+      "required_skills": [
+        "Chef",
+        "Puppet",
+        "JavaScript"
+      ],
+      "nice_to_have_skills": [
+        "Technical Writing",
+        "Dynamics 365"
+      ],
+      "required_certifications": [
+        "PMP",
+        "Certified Kubernetes Application Developer (CKAD)"
+      ],
+      "engagement_start": "2026-07-15",
+      "duration_months": 3,
+      "headcount": 1,
+      "description": "Seeking a principal erp consultant for a 3-month engagement with NovaStar Retail. The ideal candidate will have strong experience in Chef, Puppet, JavaScript.",
+      "remote_eligible": true,
+      "travel_required": "None"
+    },
+    {
+      "opportunity_id": "OPP-2012",
+      "client": "NovaStar Retail",
+      "role_title": "Back-End Developer",
+      "seniority_required": "Junior",
+      "practice_area": "Data & Analytics",
+      "region": "LATAM",
+      "status": "Submitted",
+      "urgency": "Immediate",
+      "required_skills": [
+        "Zero Trust",
+        "Agile",
+        "SAFe",
+        "Looker"
+      ],
+      "nice_to_have_skills": [
+        "API Testing",
+        "NIST"
+      ],
+      "required_certifications": [
+        "AWS Solutions Architect - Associate"
+      ],
+      "engagement_start": "2026-07-07",
+      "duration_months": 12,
+      "headcount": 1,
+      "description": "Seeking a junior back-end developer for a 12-month engagement with NovaStar Retail. The ideal candidate will have strong experience in Zero Trust, Agile, SAFe.",
+      "remote_eligible": true,
+      "travel_required": "Moderate (25-50%)"
+    },
+    {
+      "opportunity_id": "OPP-2013",
+      "client": "Vanguard Telecom",
+      "role_title": "Data Engineer",
+      "seniority_required": "Mid-Level",
+      "practice_area": "Cybersecurity",
+      "region": "APAC",
+      "status": "In Progress",
+      "urgency": "Within 2 Weeks",
+      "required_skills": [
+        "Go",
+        "Kotlin",
+        ".NET",
+        "Helm",
+        "GitHub Actions"
+      ],
+      "nice_to_have_skills": [
+        "Tableau",
+        "Shell Scripting"
+      ],
+      "required_certifications": [
+        "Certified Kubernetes Application Developer (CKAD)"
+      ],
+      "engagement_start": "2026-04-30",
+      "duration_months": 3,
+      "headcount": 2,
+      "description": "Seeking a mid-level data engineer for a 3-month engagement with Vanguard Telecom. The ideal candidate will have strong experience in Go, Kotlin, .NET.",
+      "remote_eligible": true,
+      "travel_required": "None"
+    },
+    {
+      "opportunity_id": "OPP-2014",
+      "client": "TerraVerde Energy",
+      "role_title": "DevOps Engineer",
+      "seniority_required": "Mid-Level",
+      "practice_area": "Quality Engineering",
+      "region": "LATAM",
+      "status": "Submitted",
+      "urgency": "Within 30 Days",
+      "required_skills": [
+        "Workday HCM",
+        "NetSuite",
+        "EKS",
+        "GCP",
+        "Splunk"
+      ],
+      "nice_to_have_skills": [
+        "SOC 2",
+        "Java"
+      ],
+      "required_certifications": [
+        "Certified Kubernetes Administrator (CKA)",
+        "CSM (Certified Scrum Master)"
+      ],
+      "engagement_start": "2026-05-21",
+      "duration_months": 3,
+      "headcount": 2,
+      "description": "Seeking a mid-level devops engineer for a 3-month engagement with TerraVerde Energy. The ideal candidate will have strong experience in Workday HCM, NetSuite, EKS.",
+      "remote_eligible": true,
+      "travel_required": "None"
+    },
+    {
+      "opportunity_id": "OPP-2015",
+      "client": "CrestPoint Logistics",
+      "role_title": "Data Scientist",
+      "seniority_required": "Principal",
+      "practice_area": "DevOps & SRE",
+      "region": "APAC",
+      "status": "Open",
+      "urgency": "Immediate",
+      "required_skills": [
+        "Cypress",
+        "Amazon Web Services",
+        "GitLab CI"
+      ],
+      "nice_to_have_skills": [
+        "Salesforce",
+        "Confluence",
+        "ML"
+      ],
+      "required_certifications": [],
+      "engagement_start": "2026-09-01",
+      "duration_months": 9,
+      "headcount": 3,
+      "description": "Seeking a principal data scientist for a 9-month engagement with CrestPoint Logistics. The ideal candidate will have strong experience in Cypress, Amazon Web Services, GitLab CI.",
+      "remote_eligible": true,
+      "travel_required": "None"
+    },
+    {
+      "opportunity_id": "OPP-2016",
+      "client": "Oceanview Hospitality",
+      "role_title": "Database Administrator",
+      "seniority_required": "Lead",
+      "practice_area": "ERP & Business Systems",
+      "region": "APAC",
+      "status": "Open",
+      "urgency": "Flexible",
+      "required_skills": [
+        "JavaScript",
+        ".NET",
+        "Oracle ERP",
+        "Natural Language Processing",
+        "scikit-learn"
+      ],
+      "nice_to_have_skills": [
+        "Go",
+        "Prometheus",
+        "Rust"
+      ],
+      "required_certifications": [
+        "Google Cloud Professional Cloud Architect"
+      ],
+      "engagement_start": "2026-06-22",
+      "duration_months": 6,
+      "headcount": 2,
+      "description": "Seeking a lead database administrator for a 6-month engagement with Oceanview Hospitality. The ideal candidate will have strong experience in JavaScript, .NET, Oracle ERP.",
+      "remote_eligible": false,
+      "travel_required": "Moderate (25-50%)"
+    },
+    {
+      "opportunity_id": "OPP-2017",
+      "client": "SilverLake Capital",
+      "role_title": "Front-End Developer",
+      "seniority_required": "Senior",
+      "practice_area": "AI/ML",
+      "region": "EMEA",
+      "status": "In Progress",
+      "urgency": "Within 2 Weeks",
+      "required_skills": [
+        "IAM",
+        "Penetration Testing",
+        "Power BI",
+        "Swift"
+      ],
+      "nice_to_have_skills": [
+        "Salesforce",
+        "Project Management",
+        "MLOps"
+      ],
+      "required_certifications": [
+        "SAFe Agilist",
+        "CSM (Certified Scrum Master)"
+      ],
+      "engagement_start": "2026-07-29",
+      "duration_months": 6,
+      "headcount": 1,
+      "description": "Seeking a senior front-end developer for a 6-month engagement with SilverLake Capital. The ideal candidate will have strong experience in IAM, Penetration Testing, Power BI.",
+      "remote_eligible": true,
+      "travel_required": "Occasional (<25%)"
+    },
+    {
+      "opportunity_id": "OPP-2018",
+      "client": "Oceanview Hospitality",
+      "role_title": "Database Administrator",
+      "seniority_required": "Junior",
+      "practice_area": "AI/ML",
+      "region": "APAC",
+      "status": "In Progress",
+      "urgency": "Within 2 Weeks",
+      "required_skills": [
+        "Performance Testing",
+        "Looker",
+        "BigQuery",
+        "Workday HCM",
+        "Airflow",
+        "Selenium"
+      ],
+      "nice_to_have_skills": [
+        "Deep Learning",
+        ".NET",
+        "ML"
+      ],
+      "required_certifications": [
+        "Azure Administrator (AZ-104)",
+        "PMP"
+      ],
+      "engagement_start": "2026-05-09",
+      "duration_months": 9,
+      "headcount": 2,
+      "description": "Seeking a junior database administrator for a 9-month engagement with Oceanview Hospitality. The ideal candidate will have strong experience in Performance Testing, Looker, BigQuery.",
+      "remote_eligible": false,
+      "travel_required": "Moderate (25-50%)"
+    },
+    {
+      "opportunity_id": "OPP-2019",
+      "client": "BrightPath Education",
+      "role_title": "Technical Project Manager",
+      "seniority_required": "Mid-Level",
+      "practice_area": "AI/ML",
+      "region": "APAC",
+      "status": "On Hold",
+      "urgency": "Immediate",
+      "required_skills": [
+        "Looker",
+        "Kafka",
+        "SAP"
+      ],
+      "nice_to_have_skills": [
+        "Docker",
+        "R",
+        "SOC 2"
+      ],
+      "required_certifications": [],
+      "engagement_start": "2026-07-15",
+      "duration_months": 9,
+      "headcount": 1,
+      "description": "Seeking a mid-level technical project manager for a 9-month engagement with BrightPath Education. The ideal candidate will have strong experience in Looker, Kafka, SAP.",
+      "remote_eligible": true,
+      "travel_required": "None"
+    }
+  ]
+}

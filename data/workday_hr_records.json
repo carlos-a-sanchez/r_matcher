@@ -1,0 +1,1107 @@
+{
+  "_metadata": {
+    "description": "Workday \u2014 HR records with availability status, current assignments, cost centers, and billing tiers.",
+    "generated": "2026-03-26",
+    "record_count": 50,
+    "purpose": "AI Hackathon 2026 \u2014 Resume Matching & Supply/Demand Challenge",
+    "note": "This is synthetic data generated for hackathon use only. All names, companies, and records are fictional."
+  },
+  "records": [
+    {
+      "employee_id": "EMP-1000",
+      "full_name": "Alex Sharma",
+      "email": "alex.sharma@improving.com",
+      "job_title": "Front-End Developer",
+      "seniority_level": "Architect",
+      "practice_area": "Data & Analytics",
+      "region": "North America - East",
+      "hire_date": "2021-02-16",
+      "availability_status": "On Assignment",
+      "available_date": "2026-06-30",
+      "current_assignment": {
+        "client": "TerraVerde Energy",
+        "role": "Machine Learning Engineer",
+        "end_date": "2026-06-30",
+        "utilization_pct": 100
+      },
+      "certifications": [
+        "Certified Kubernetes Administrator (CKA)",
+        "CompTIA Security+",
+        "ServiceNow CSA",
+        "Certified Kubernetes Application Developer (CKAD)",
+        "AWS Solutions Architect - Associate"
+      ],
+      "cost_center": "CC-4015",
+      "billable_rate_tier": "Tier 5"
+    },
+    {
+      "employee_id": "EMP-1001",
+      "full_name": "Jordan Williams",
+      "email": "jordan.williams@improving.com",
+      "job_title": "Security Engineer",
+      "seniority_level": "Mid-Level",
+      "practice_area": "ERP & Business Systems",
+      "region": "North America - Central",
+      "hire_date": "2021-01-29",
+      "availability_status": "Notice Period",
+      "available_date": null,
+      "current_assignment": null,
+      "certifications": [],
+      "cost_center": "CC-1962",
+      "billable_rate_tier": "Tier 2"
+    },
+    {
+      "employee_id": "EMP-1002",
+      "full_name": "Taylor Chen",
+      "email": "taylor.chen@improving.com",
+      "job_title": "Senior Cloud Engineer",
+      "seniority_level": "Principal",
+      "practice_area": "Cybersecurity",
+      "region": "APAC",
+      "hire_date": "2023-07-28",
+      "availability_status": "On Assignment",
+      "available_date": "2026-04-20",
+      "current_assignment": {
+        "client": "Redwood Analytics",
+        "role": "MLOps Engineer",
+        "end_date": "2026-04-20",
+        "utilization_pct": 50
+      },
+      "certifications": [
+        "CSM (Certified Scrum Master)",
+        "Google Cloud Professional Cloud Architect",
+        "Certified Kubernetes Application Developer (CKAD)",
+        "AWS Developer - Associate"
+      ],
+      "cost_center": "CC-7756",
+      "billable_rate_tier": "Tier 5"
+    },
+    {
+      "employee_id": "EMP-1003",
+      "full_name": "Morgan Rodriguez",
+      "email": "morgan.rodriguez@improving.com",
+      "job_title": "Full Stack Developer",
+      "seniority_level": "Principal",
+      "practice_area": "Application Development",
+      "region": "EMEA",
+      "hire_date": "2017-08-05",
+      "availability_status": "Available",
+      "available_date": "2026-03-22",
+      "current_assignment": null,
+      "certifications": [
+        "SAFe Agilist",
+        "CompTIA Security+",
+        "Azure Solutions Architect (AZ-305)",
+        "Certified Kubernetes Application Developer (CKAD)",
+        "ServiceNow CSA"
+      ],
+      "cost_center": "CC-3474",
+      "billable_rate_tier": "Tier 5"
+    },
+    {
+      "employee_id": "EMP-1004",
+      "full_name": "Casey Patel",
+      "email": "casey.patel@improving.com",
+      "job_title": "Platform Engineer",
+      "seniority_level": "Mid-Level",
+      "practice_area": "Cybersecurity",
+      "region": "APAC",
+      "hire_date": "2020-02-11",
+      "availability_status": "Available",
+      "available_date": "2026-03-06",
+      "current_assignment": null,
+      "certifications": [
+        "Certified Kubernetes Application Developer (CKAD)",
+        "Salesforce Administrator"
+      ],
+      "cost_center": "CC-1990",
+      "billable_rate_tier": "Tier 2"
+    },
+    {
+      "employee_id": "EMP-1005",
+      "full_name": "Riley Kim",
+      "email": "riley.kim@improving.com",
+      "job_title": "Front-End Developer",
+      "seniority_level": "Junior",
+      "practice_area": "Data & Analytics",
+      "region": "APAC",
+      "hire_date": "2022-05-24",
+      "availability_status": "Available",
+      "available_date": "2025-12-15",
+      "current_assignment": null,
+      "certifications": [],
+      "cost_center": "CC-1257",
+      "billable_rate_tier": "Tier 1"
+    },
+    {
+      "employee_id": "EMP-1006",
+      "full_name": "Jamie Okafor",
+      "email": "jamie.okafor@improving.com",
+      "job_title": "Senior Cloud Engineer",
+      "seniority_level": "Senior",
+      "practice_area": "Application Development",
+      "region": "EMEA",
+      "hire_date": "2019-08-12",
+      "availability_status": "Available",
+      "available_date": "2026-03-12",
+      "current_assignment": null,
+      "certifications": [
+        "Databricks Data Engineer Associate"
+      ],
+      "cost_center": "CC-1274",
+      "billable_rate_tier": "Tier 3"
+    },
+    {
+      "employee_id": "EMP-1007",
+      "full_name": "Quinn Mueller",
+      "email": "quinn.mueller@improving.com",
+      "job_title": "Integration Specialist",
+      "seniority_level": "Principal",
+      "practice_area": "Application Development",
+      "region": "North America - Central",
+      "hire_date": "2020-08-19",
+      "availability_status": "On Assignment",
+      "available_date": "2026-06-10",
+      "current_assignment": {
+        "client": "SilverLake Capital",
+        "role": "Scrum Master",
+        "end_date": "2026-06-10",
+        "utilization_pct": 50
+      },
+      "certifications": [
+        "ITIL v4 Foundation",
+        "AWS Solutions Architect - Professional"
+      ],
+      "cost_center": "CC-8054",
+      "billable_rate_tier": "Tier 5"
+    },
+    {
+      "employee_id": "EMP-1008",
+      "full_name": "Avery Tanaka",
+      "email": "avery.tanaka@improving.com",
+      "job_title": "DevOps Engineer",
+      "seniority_level": "Mid-Level",
+      "practice_area": "Data & Analytics",
+      "region": "North America - East",
+      "hire_date": "2016-03-14",
+      "availability_status": "On Leave",
+      "available_date": "2026-05-07",
+      "current_assignment": null,
+      "certifications": [
+        "CISSP"
+      ],
+      "cost_center": "CC-9591",
+      "billable_rate_tier": "Tier 2"
+    },
+    {
+      "employee_id": "EMP-1009",
+      "full_name": "Cameron Singh",
+      "email": "cameron.singh@improving.com",
+      "job_title": "Back-End Developer",
+      "seniority_level": "Lead",
+      "practice_area": "Quality Engineering",
+      "region": "APAC",
+      "hire_date": "2021-12-13",
+      "availability_status": "Available",
+      "available_date": "2026-01-25",
+      "current_assignment": null,
+      "certifications": [
+        "AWS Developer - Associate",
+        "CompTIA Security+"
+      ],
+      "cost_center": "CC-5135",
+      "billable_rate_tier": "Tier 4"
+    },
+    {
+      "employee_id": "EMP-1010",
+      "full_name": "Drew Johnson",
+      "email": "drew.johnson@improving.com",
+      "job_title": "Site Reliability Engineer",
+      "seniority_level": "Principal",
+      "practice_area": "Data & Analytics",
+      "region": "North America - East",
+      "hire_date": "2023-12-01",
+      "availability_status": "On Leave",
+      "available_date": "2026-05-19",
+      "current_assignment": null,
+      "certifications": [
+        "Google Cloud Professional Cloud Architect",
+        "Terraform Associate",
+        "ITIL v4 Foundation"
+      ],
+      "cost_center": "CC-2294",
+      "billable_rate_tier": "Tier 5"
+    },
+    {
+      "employee_id": "EMP-1011",
+      "full_name": "Emery Lopez",
+      "email": "emery.lopez@improving.com",
+      "job_title": "QA Automation Engineer",
+      "seniority_level": "Junior",
+      "practice_area": "Cloud & Infrastructure",
+      "region": "APAC",
+      "hire_date": "2022-10-26",
+      "availability_status": "On Assignment",
+      "available_date": "2026-07-13",
+      "current_assignment": {
+        "client": "Vanguard Telecom",
+        "role": "Database Administrator",
+        "end_date": "2026-07-13",
+        "utilization_pct": 50
+      },
+      "certifications": [],
+      "cost_center": "CC-5914",
+      "billable_rate_tier": "Tier 1"
+    },
+    {
+      "employee_id": "EMP-1012",
+      "full_name": "Finley Nakamura",
+      "email": "finley.nakamura@improving.com",
+      "job_title": "Site Reliability Engineer",
+      "seniority_level": "Principal",
+      "practice_area": "DevOps & SRE",
+      "region": "EMEA",
+      "hire_date": "2016-01-18",
+      "availability_status": "Available Soon",
+      "available_date": "2026-04-01",
+      "current_assignment": {
+        "client": "BrightPath Education",
+        "role": "Security Engineer",
+        "end_date": "2026-04-01",
+        "utilization_pct": 25
+      },
+      "certifications": [
+        "AWS Developer - Associate",
+        "Salesforce Administrator"
+      ],
+      "cost_center": "CC-7213",
+      "billable_rate_tier": "Tier 5"
+    },
+    {
+      "employee_id": "EMP-1013",
+      "full_name": "Harper Brown",
+      "email": "harper.brown@improving.com",
+      "job_title": "Cybersecurity Analyst",
+      "seniority_level": "Mid-Level",
+      "practice_area": "Cybersecurity",
+      "region": "North America - West",
+      "hire_date": "2022-11-18",
+      "availability_status": "On Assignment",
+      "available_date": "2026-07-31",
+      "current_assignment": {
+        "client": "Meridian Health Systems",
+        "role": "Security Engineer",
+        "end_date": "2026-07-31",
+        "utilization_pct": 50
+      },
+      "certifications": [],
+      "cost_center": "CC-2354",
+      "billable_rate_tier": "Tier 2"
+    },
+    {
+      "employee_id": "EMP-1014",
+      "full_name": "Kendall Garcia",
+      "email": "kendall.garcia@improving.com",
+      "job_title": "DevOps Engineer",
+      "seniority_level": "Architect",
+      "practice_area": "Application Development",
+      "region": "North America - Central",
+      "hire_date": "2024-08-15",
+      "availability_status": "On Assignment",
+      "available_date": "2026-07-21",
+      "current_assignment": {
+        "client": "BrightPath Education",
+        "role": "Technical Project Manager",
+        "end_date": "2026-07-21",
+        "utilization_pct": 100
+      },
+      "certifications": [
+        "CompTIA Security+",
+        "Salesforce Administrator",
+        "CISSP"
+      ],
+      "cost_center": "CC-9653",
+      "billable_rate_tier": "Tier 5"
+    },
+    {
+      "employee_id": "EMP-1015",
+      "full_name": "Logan Nguyen",
+      "email": "logan.nguyen@improving.com",
+      "job_title": "SAP Consultant",
+      "seniority_level": "Principal",
+      "practice_area": "Cloud & Infrastructure",
+      "region": "North America - East",
+      "hire_date": "2017-07-30",
+      "availability_status": "Notice Period",
+      "available_date": null,
+      "current_assignment": null,
+      "certifications": [
+        "CSM (Certified Scrum Master)",
+        "Salesforce Administrator"
+      ],
+      "cost_center": "CC-8790",
+      "billable_rate_tier": "Tier 5"
+    },
+    {
+      "employee_id": "EMP-1016",
+      "full_name": "Parker Anderson",
+      "email": "parker.anderson@improving.com",
+      "job_title": "MLOps Engineer",
+      "seniority_level": "Lead",
+      "practice_area": "Application Development",
+      "region": "North America - West",
+      "hire_date": "2021-04-27",
+      "availability_status": "On Assignment",
+      "available_date": "2026-04-20",
+      "current_assignment": {
+        "client": "BrightPath Education",
+        "role": "Solutions Architect",
+        "end_date": "2026-04-20",
+        "utilization_pct": 100
+      },
+      "certifications": [
+        "Google Cloud Professional Cloud Architect",
+        "CompTIA Security+"
+      ],
+      "cost_center": "CC-1539",
+      "billable_rate_tier": "Tier 4"
+    },
+    {
+      "employee_id": "EMP-1017",
+      "full_name": "Reese Martinez",
+      "email": "reese.martinez@improving.com",
+      "job_title": "SAP Consultant",
+      "seniority_level": "Senior",
+      "practice_area": "Cybersecurity",
+      "region": "North America - West",
+      "hire_date": "2015-03-06",
+      "availability_status": "Available",
+      "available_date": "2026-02-10",
+      "current_assignment": null,
+      "certifications": [
+        "ServiceNow CSA"
+      ],
+      "cost_center": "CC-3362",
+      "billable_rate_tier": "Tier 3"
+    },
+    {
+      "employee_id": "EMP-1018",
+      "full_name": "Sage Thompson",
+      "email": "sage.thompson@improving.com",
+      "job_title": "Cybersecurity Analyst",
+      "seniority_level": "Senior",
+      "practice_area": "Cloud & Infrastructure",
+      "region": "North America - East",
+      "hire_date": "2018-05-10",
+      "availability_status": "Available Soon",
+      "available_date": "2026-05-11",
+      "current_assignment": {
+        "client": "Redwood Analytics",
+        "role": "Site Reliability Engineer",
+        "end_date": "2026-05-11",
+        "utilization_pct": 25
+      },
+      "certifications": [
+        "Azure Administrator (AZ-104)",
+        "Terraform Associate",
+        "Snowflake SnowPro Core"
+      ],
+      "cost_center": "CC-4939",
+      "billable_rate_tier": "Tier 3"
+    },
+    {
+      "employee_id": "EMP-1019",
+      "full_name": "Dakota Lee",
+      "email": "dakota.lee@improving.com",
+      "job_title": "ERP Consultant",
+      "seniority_level": "Senior",
+      "practice_area": "ERP & Business Systems",
+      "region": "North America - Central",
+      "hire_date": "2019-04-22",
+      "availability_status": "On Assignment",
+      "available_date": "2026-07-09",
+      "current_assignment": {
+        "client": "BrightPath Education",
+        "role": "Mobile Developer",
+        "end_date": "2026-07-09",
+        "utilization_pct": 75
+      },
+      "certifications": [
+        "CompTIA Security+",
+        "Google Cloud Professional Cloud Architect"
+      ],
+      "cost_center": "CC-3292",
+      "billable_rate_tier": "Tier 3"
+    },
+    {
+      "employee_id": "EMP-1020",
+      "full_name": "Eli Walker",
+      "email": "eli.walker@improving.com",
+      "job_title": "Platform Engineer",
+      "seniority_level": "Principal",
+      "practice_area": "Quality Engineering",
+      "region": "APAC",
+      "hire_date": "2023-05-12",
+      "availability_status": "On Assignment",
+      "available_date": "2026-05-10",
+      "current_assignment": {
+        "client": "Meridian Health Systems",
+        "role": "Data Engineer",
+        "end_date": "2026-06-30",
+        "utilization_pct": 50
+      },
+      "certifications": [
+        "Databricks Data Engineer Associate",
+        "TOGAF Certified",
+        "AWS Developer - Associate"
+      ],
+      "cost_center": "CC-1879",
+      "billable_rate_tier": "Tier 5"
+    },
+    {
+      "employee_id": "EMP-1021",
+      "full_name": "Maria Hall",
+      "email": "maria.hall@improving.com",
+      "job_title": "Full Stack Developer",
+      "seniority_level": "Lead",
+      "practice_area": "ERP & Business Systems",
+      "region": "APAC",
+      "hire_date": "2024-05-28",
+      "availability_status": "Available",
+      "available_date": "2026-01-30",
+      "current_assignment": null,
+      "certifications": [
+        "CompTIA Security+",
+        "TOGAF Certified",
+        "Snowflake SnowPro Core"
+      ],
+      "cost_center": "CC-6580",
+      "billable_rate_tier": "Tier 4"
+    },
+    {
+      "employee_id": "EMP-1022",
+      "full_name": "Priya Young",
+      "email": "priya.young@improving.com",
+      "job_title": "Security Engineer",
+      "seniority_level": "Lead",
+      "practice_area": "Quality Engineering",
+      "region": "North America - West",
+      "hire_date": "2015-05-02",
+      "availability_status": "On Assignment",
+      "available_date": "2026-09-05",
+      "current_assignment": {
+        "client": "Ironclad Defense Corp",
+        "role": "Site Reliability Engineer",
+        "end_date": "2026-09-05",
+        "utilization_pct": 75
+      },
+      "certifications": [
+        "Azure Solutions Architect (AZ-305)",
+        "Google Cloud Professional Cloud Architect",
+        "AWS Developer - Associate",
+        "CISSP"
+      ],
+      "cost_center": "CC-5478",
+      "billable_rate_tier": "Tier 4"
+    },
+    {
+      "employee_id": "EMP-1023",
+      "full_name": "Wei Allen",
+      "email": "wei.allen@improving.com",
+      "job_title": "Site Reliability Engineer",
+      "seniority_level": "Lead",
+      "practice_area": "AI/ML",
+      "region": "EMEA",
+      "hire_date": "2021-03-15",
+      "availability_status": "Available Soon",
+      "available_date": "2026-04-24",
+      "current_assignment": {
+        "client": "Vanguard Telecom",
+        "role": "QA Automation Engineer",
+        "end_date": "2026-04-24",
+        "utilization_pct": 50
+      },
+      "certifications": [
+        "Databricks Data Engineer Associate",
+        "AWS Solutions Architect - Associate",
+        "SAFe Agilist",
+        "PMP"
+      ],
+      "cost_center": "CC-8075",
+      "billable_rate_tier": "Tier 4"
+    },
+    {
+      "employee_id": "EMP-1024",
+      "full_name": "Aisha Wright",
+      "email": "aisha.wright@improving.com",
+      "job_title": "Site Reliability Engineer",
+      "seniority_level": "Architect",
+      "practice_area": "ERP & Business Systems",
+      "region": "APAC",
+      "hire_date": "2022-05-30",
+      "availability_status": "Available",
+      "available_date": "2026-03-16",
+      "current_assignment": null,
+      "certifications": [
+        "PMP",
+        "Google Cloud Professional Cloud Architect",
+        "CompTIA Security+",
+        "ITIL v4 Foundation",
+        "Salesforce Administrator"
+      ],
+      "cost_center": "CC-2404",
+      "billable_rate_tier": "Tier 5"
+    },
+    {
+      "employee_id": "EMP-1025",
+      "full_name": "Carlos Scott",
+      "email": "carlos.scott@improving.com",
+      "job_title": "Full Stack Developer",
+      "seniority_level": "Lead",
+      "practice_area": "Cybersecurity",
+      "region": "LATAM",
+      "hire_date": "2015-10-29",
+      "availability_status": "Available Soon",
+      "available_date": "2026-04-14",
+      "current_assignment": {
+        "client": "Summit Pharmaceuticals",
+        "role": "QA Automation Engineer",
+        "end_date": "2026-04-14",
+        "utilization_pct": 75
+      },
+      "certifications": [
+        "ServiceNow CSA"
+      ],
+      "cost_center": "CC-5390",
+      "billable_rate_tier": "Tier 4"
+    },
+    {
+      "employee_id": "EMP-1026",
+      "full_name": "Dmitri Adams",
+      "email": "dmitri.adams@improving.com",
+      "job_title": "ERP Consultant",
+      "seniority_level": "Mid-Level",
+      "practice_area": "Quality Engineering",
+      "region": "APAC",
+      "hire_date": "2016-09-23",
+      "availability_status": "Available",
+      "available_date": "2026-03-23",
+      "current_assignment": null,
+      "certifications": [
+        "ITIL v4 Foundation",
+        "Certified Kubernetes Administrator (CKA)"
+      ],
+      "cost_center": "CC-7383",
+      "billable_rate_tier": "Tier 2"
+    },
+    {
+      "employee_id": "EMP-1027",
+      "full_name": "Fatima Baker",
+      "email": "fatima.baker@improving.com",
+      "job_title": "Platform Engineer",
+      "seniority_level": "Junior",
+      "practice_area": "Cybersecurity",
+      "region": "APAC",
+      "hire_date": "2019-12-27",
+      "availability_status": "On Assignment",
+      "available_date": "2026-04-28",
+      "current_assignment": {
+        "client": "Apex Financial Group",
+        "role": "Senior Cloud Engineer",
+        "end_date": "2026-04-28",
+        "utilization_pct": 75
+      },
+      "certifications": [
+        "TOGAF Certified"
+      ],
+      "cost_center": "CC-5419",
+      "billable_rate_tier": "Tier 1"
+    },
+    {
+      "employee_id": "EMP-1028",
+      "full_name": "Hiroshi Green",
+      "email": "hiroshi.green@improving.com",
+      "job_title": "Business Analyst",
+      "seniority_level": "Principal",
+      "practice_area": "Quality Engineering",
+      "region": "LATAM",
+      "hire_date": "2017-02-06",
+      "availability_status": "Available",
+      "available_date": "2026-01-12",
+      "current_assignment": null,
+      "certifications": [
+        "CSM (Certified Scrum Master)",
+        "Certified Kubernetes Application Developer (CKAD)",
+        "PMP"
+      ],
+      "cost_center": "CC-8353",
+      "billable_rate_tier": "Tier 5"
+    },
+    {
+      "employee_id": "EMP-1029",
+      "full_name": "Ingrid Nelson",
+      "email": "ingrid.nelson@improving.com",
+      "job_title": "Platform Engineer",
+      "seniority_level": "Senior",
+      "practice_area": "Cybersecurity",
+      "region": "EMEA",
+      "hire_date": "2016-01-03",
+      "availability_status": "On Assignment",
+      "available_date": "2026-08-10",
+      "current_assignment": {
+        "client": "CrestPoint Logistics",
+        "role": "DevOps Engineer",
+        "end_date": "2026-08-10",
+        "utilization_pct": 50
+      },
+      "certifications": [
+        "AWS Developer - Associate"
+      ],
+      "cost_center": "CC-2524",
+      "billable_rate_tier": "Tier 3"
+    },
+    {
+      "employee_id": "EMP-1030",
+      "full_name": "Jamal Hill",
+      "email": "jamal.hill@improving.com",
+      "job_title": "Business Analyst",
+      "seniority_level": "Senior",
+      "practice_area": "DevOps & SRE",
+      "region": "LATAM",
+      "hire_date": "2018-04-10",
+      "availability_status": "Notice Period",
+      "available_date": null,
+      "current_assignment": {
+        "client": "Redwood Analytics",
+        "role": "Site Reliability Engineer",
+        "end_date": "2026-06-23",
+        "utilization_pct": 50
+      },
+      "certifications": [
+        "Salesforce Administrator"
+      ],
+      "cost_center": "CC-7353",
+      "billable_rate_tier": "Tier 3"
+    },
+    {
+      "employee_id": "EMP-1031",
+      "full_name": "Kenji Moore",
+      "email": "kenji.moore@improving.com",
+      "job_title": "Back-End Developer",
+      "seniority_level": "Architect",
+      "practice_area": "Application Development",
+      "region": "North America - West",
+      "hire_date": "2021-05-31",
+      "availability_status": "Available Soon",
+      "available_date": "2026-05-12",
+      "current_assignment": {
+        "client": "Oceanview Hospitality",
+        "role": "Mobile Developer",
+        "end_date": "2026-05-12",
+        "utilization_pct": 25
+      },
+      "certifications": [
+        "Certified Kubernetes Application Developer (CKAD)",
+        "AWS Solutions Architect - Professional",
+        "TOGAF Certified"
+      ],
+      "cost_center": "CC-3778",
+      "billable_rate_tier": "Tier 5"
+    },
+    {
+      "employee_id": "EMP-1032",
+      "full_name": "Lena Clark",
+      "email": "lena.clark@improving.com",
+      "job_title": "Front-End Developer",
+      "seniority_level": "Principal",
+      "practice_area": "Cybersecurity",
+      "region": "APAC",
+      "hire_date": "2018-01-04",
+      "availability_status": "Available Soon",
+      "available_date": "2026-04-06",
+      "current_assignment": {
+        "client": "TerraVerde Energy",
+        "role": "Solutions Architect",
+        "end_date": "2026-04-06",
+        "utilization_pct": 50
+      },
+      "certifications": [
+        "Databricks Data Engineer Associate",
+        "AWS Developer - Associate",
+        "ServiceNow CSA",
+        "AWS Solutions Architect - Professional",
+        "Azure Solutions Architect (AZ-305)"
+      ],
+      "cost_center": "CC-3390",
+      "billable_rate_tier": "Tier 5"
+    },
+    {
+      "employee_id": "EMP-1033",
+      "full_name": "Marco Lewis",
+      "email": "marco.lewis@improving.com",
+      "job_title": "Business Analyst",
+      "seniority_level": "Mid-Level",
+      "practice_area": "Cybersecurity",
+      "region": "North America - East",
+      "hire_date": "2018-02-04",
+      "availability_status": "Available",
+      "available_date": "2026-02-25",
+      "current_assignment": null,
+      "certifications": [],
+      "cost_center": "CC-5911",
+      "billable_rate_tier": "Tier 2"
+    },
+    {
+      "employee_id": "EMP-1034",
+      "full_name": "Nadia Robinson",
+      "email": "nadia.robinson@improving.com",
+      "job_title": "Security Engineer",
+      "seniority_level": "Architect",
+      "practice_area": "DevOps & SRE",
+      "region": "North America - Central",
+      "hire_date": "2023-01-31",
+      "availability_status": "On Assignment",
+      "available_date": "2026-04-20",
+      "current_assignment": {
+        "client": "Pinnacle Manufacturing",
+        "role": "Solutions Architect",
+        "end_date": "2026-04-20",
+        "utilization_pct": 50
+      },
+      "certifications": [
+        "Salesforce Administrator",
+        "Certified Kubernetes Administrator (CKA)"
+      ],
+      "cost_center": "CC-9123",
+      "billable_rate_tier": "Tier 5"
+    },
+    {
+      "employee_id": "EMP-1035",
+      "full_name": "Omar White",
+      "email": "omar.white@improving.com",
+      "job_title": "Senior Cloud Engineer",
+      "seniority_level": "Architect",
+      "practice_area": "Application Development",
+      "region": "North America - Central",
+      "hire_date": "2018-06-01",
+      "availability_status": "On Assignment",
+      "available_date": "2026-05-21",
+      "current_assignment": {
+        "client": "Vanguard Telecom",
+        "role": "DevOps Engineer",
+        "end_date": "2026-05-21",
+        "utilization_pct": 50
+      },
+      "certifications": [
+        "Snowflake SnowPro Core",
+        "Salesforce Administrator",
+        "Databricks Data Engineer Associate",
+        "CompTIA Security+"
+      ],
+      "cost_center": "CC-7483",
+      "billable_rate_tier": "Tier 5"
+    },
+    {
+      "employee_id": "EMP-1036",
+      "full_name": "Petra Harris",
+      "email": "petra.harris@improving.com",
+      "job_title": "Business Analyst",
+      "seniority_level": "Junior",
+      "practice_area": "Cloud & Infrastructure",
+      "region": "LATAM",
+      "hire_date": "2018-10-03",
+      "availability_status": "On Assignment",
+      "available_date": "2026-09-06",
+      "current_assignment": {
+        "client": "CrestPoint Logistics",
+        "role": "Technical Project Manager",
+        "end_date": "2026-09-06",
+        "utilization_pct": 75
+      },
+      "certifications": [],
+      "cost_center": "CC-3230",
+      "billable_rate_tier": "Tier 1"
+    },
+    {
+      "employee_id": "EMP-1037",
+      "full_name": "Raj Martin",
+      "email": "raj.martin@improving.com",
+      "job_title": "Cybersecurity Analyst",
+      "seniority_level": "Lead",
+      "practice_area": "AI/ML",
+      "region": "LATAM",
+      "hire_date": "2018-07-10",
+      "availability_status": "On Assignment",
+      "available_date": "2026-09-02",
+      "current_assignment": {
+        "client": "Cascade Utilities",
+        "role": "SAP Consultant",
+        "end_date": "2026-09-02",
+        "utilization_pct": 75
+      },
+      "certifications": [
+        "Snowflake SnowPro Core",
+        "AWS Solutions Architect - Associate",
+        "Salesforce Administrator",
+        "CompTIA Security+"
+      ],
+      "cost_center": "CC-7524",
+      "billable_rate_tier": "Tier 4"
+    },
+    {
+      "employee_id": "EMP-1038",
+      "full_name": "Sofia Jackson",
+      "email": "sofia.jackson@improving.com",
+      "job_title": "ERP Consultant",
+      "seniority_level": "Lead",
+      "practice_area": "Cloud & Infrastructure",
+      "region": "North America - West",
+      "hire_date": "2018-04-08",
+      "availability_status": "Notice Period",
+      "available_date": null,
+      "current_assignment": null,
+      "certifications": [
+        "AWS Developer - Associate",
+        "Certified Kubernetes Administrator (CKA)",
+        "Azure Administrator (AZ-104)",
+        "CompTIA Security+"
+      ],
+      "cost_center": "CC-9044",
+      "billable_rate_tier": "Tier 4"
+    },
+    {
+      "employee_id": "EMP-1039",
+      "full_name": "Tom\u00e1s Davis",
+      "email": "tom\u00e1s.davis@improving.com",
+      "job_title": "QA Automation Engineer",
+      "seniority_level": "Junior",
+      "practice_area": "Application Development",
+      "region": "LATAM",
+      "hire_date": "2023-10-08",
+      "availability_status": "Notice Period",
+      "available_date": null,
+      "current_assignment": null,
+      "certifications": [
+        "Azure Solutions Architect (AZ-305)"
+      ],
+      "cost_center": "CC-6339",
+      "billable_rate_tier": "Tier 1"
+    },
+    {
+      "employee_id": "EMP-1040",
+      "full_name": "Uma Wilson",
+      "email": "uma.wilson@improving.com",
+      "job_title": "Database Administrator",
+      "seniority_level": "Lead",
+      "practice_area": "Quality Engineering",
+      "region": "North America - Central",
+      "hire_date": "2017-03-29",
+      "availability_status": "On Assignment",
+      "available_date": "2026-07-10",
+      "current_assignment": {
+        "client": "Pinnacle Manufacturing",
+        "role": "DevOps Engineer",
+        "end_date": "2026-07-10",
+        "utilization_pct": 100
+      },
+      "certifications": [
+        "ITIL v4 Foundation",
+        "Azure Solutions Architect (AZ-305)",
+        "Databricks Data Engineer Associate",
+        "AWS Solutions Architect - Professional"
+      ],
+      "cost_center": "CC-9939",
+      "billable_rate_tier": "Tier 4"
+    },
+    {
+      "employee_id": "EMP-1041",
+      "full_name": "Viktor Taylor",
+      "email": "viktor.taylor@improving.com",
+      "job_title": "ERP Consultant",
+      "seniority_level": "Mid-Level",
+      "practice_area": "AI/ML",
+      "region": "North America - East",
+      "hire_date": "2015-04-21",
+      "availability_status": "Available",
+      "available_date": "2026-03-12",
+      "current_assignment": null,
+      "certifications": [
+        "ITIL v4 Foundation"
+      ],
+      "cost_center": "CC-8563",
+      "billable_rate_tier": "Tier 2"
+    },
+    {
+      "employee_id": "EMP-1042",
+      "full_name": "Ximena Thomas",
+      "email": "ximena.thomas@improving.com",
+      "job_title": "Data Scientist",
+      "seniority_level": "Architect",
+      "practice_area": "Quality Engineering",
+      "region": "EMEA",
+      "hire_date": "2017-05-08",
+      "availability_status": "Notice Period",
+      "available_date": null,
+      "current_assignment": null,
+      "certifications": [
+        "AWS Solutions Architect - Professional",
+        "PMP"
+      ],
+      "cost_center": "CC-5773",
+      "billable_rate_tier": "Tier 5"
+    },
+    {
+      "employee_id": "EMP-1043",
+      "full_name": "Yuki Evans",
+      "email": "yuki.evans@improving.com",
+      "job_title": "Business Analyst",
+      "seniority_level": "Junior",
+      "practice_area": "Cybersecurity",
+      "region": "North America - Central",
+      "hire_date": "2024-03-08",
+      "availability_status": "On Leave",
+      "available_date": "2026-04-23",
+      "current_assignment": null,
+      "certifications": [
+        "Certified Kubernetes Application Developer (CKAD)"
+      ],
+      "cost_center": "CC-9180",
+      "billable_rate_tier": "Tier 1"
+    },
+    {
+      "employee_id": "EMP-1044",
+      "full_name": "Zara Roberts",
+      "email": "zara.roberts@improving.com",
+      "job_title": "Solutions Architect",
+      "seniority_level": "Architect",
+      "practice_area": "Cloud & Infrastructure",
+      "region": "LATAM",
+      "hire_date": "2017-09-18",
+      "availability_status": "Available",
+      "available_date": "2026-02-08",
+      "current_assignment": null,
+      "certifications": [
+        "ServiceNow CSA",
+        "Terraform Associate",
+        "TOGAF Certified",
+        "AWS Solutions Architect - Associate"
+      ],
+      "cost_center": "CC-3525",
+      "billable_rate_tier": "Tier 5"
+    },
+    {
+      "employee_id": "EMP-1045",
+      "full_name": "Amara Turner",
+      "email": "amara.turner@improving.com",
+      "job_title": "Database Administrator",
+      "seniority_level": "Architect",
+      "practice_area": "ERP & Business Systems",
+      "region": "North America - Central",
+      "hire_date": "2020-05-16",
+      "availability_status": "Available Soon",
+      "available_date": "2026-04-20",
+      "current_assignment": {
+        "client": "Apex Financial Group",
+        "role": "Data Scientist",
+        "end_date": "2026-04-20",
+        "utilization_pct": 75
+      },
+      "certifications": [
+        "Terraform Associate",
+        "CompTIA Security+"
+      ],
+      "cost_center": "CC-7566",
+      "billable_rate_tier": "Tier 5"
+    },
+    {
+      "employee_id": "EMP-1046",
+      "full_name": "Bao Phillips",
+      "email": "bao.phillips@improving.com",
+      "job_title": "Platform Engineer",
+      "seniority_level": "Junior",
+      "practice_area": "AI/ML",
+      "region": "APAC",
+      "hire_date": "2023-11-13",
+      "availability_status": "On Assignment",
+      "available_date": "2026-09-25",
+      "current_assignment": {
+        "client": "CrestPoint Logistics",
+        "role": "Mobile Developer",
+        "end_date": "2026-09-25",
+        "utilization_pct": 50
+      },
+      "certifications": [],
+      "cost_center": "CC-9796",
+      "billable_rate_tier": "Tier 1"
+    },
+    {
+      "employee_id": "EMP-1047",
+      "full_name": "Celeste Campbell",
+      "email": "celeste.campbell@improving.com",
+      "job_title": "Platform Engineer",
+      "seniority_level": "Lead",
+      "practice_area": "Data & Analytics",
+      "region": "North America - West",
+      "hire_date": "2022-06-15",
+      "availability_status": "On Assignment",
+      "available_date": "2026-04-22",
+      "current_assignment": {
+        "client": "Apex Financial Group",
+        "role": "QA Automation Engineer",
+        "end_date": "2026-04-22",
+        "utilization_pct": 100
+      },
+      "certifications": [
+        "Databricks Data Engineer Associate",
+        "AWS Solutions Architect - Associate"
+      ],
+      "cost_center": "CC-3725",
+      "billable_rate_tier": "Tier 4"
+    },
+    {
+      "employee_id": "EMP-1048",
+      "full_name": "Dante Parker",
+      "email": "dante.parker@improving.com",
+      "job_title": "Site Reliability Engineer",
+      "seniority_level": "Principal",
+      "practice_area": "AI/ML",
+      "region": "EMEA",
+      "hire_date": "2022-04-03",
+      "availability_status": "On Assignment",
+      "available_date": "2026-04-12",
+      "current_assignment": {
+        "client": "Ironclad Defense Corp",
+        "role": "Security Engineer",
+        "end_date": "2026-04-12",
+        "utilization_pct": 100
+      },
+      "certifications": [
+        "Salesforce Administrator",
+        "Azure Solutions Architect (AZ-305)",
+        "SAFe Agilist"
+      ],
+      "cost_center": "CC-6432",
+      "billable_rate_tier": "Tier 5"
+    },
+    {
+      "employee_id": "EMP-1049",
+      "full_name": "Elena Stewart",
+      "email": "elena.stewart@improving.com",
+      "job_title": "DevOps Engineer",
+      "seniority_level": "Lead",
+      "practice_area": "AI/ML",
+      "region": "APAC",
+      "hire_date": "2019-10-30",
+      "availability_status": "Notice Period",
+      "available_date": null,
+      "current_assignment": null,
+      "certifications": [
+        "AWS Solutions Architect - Professional",
+        "SAFe Agilist",
+        "Certified Kubernetes Application Developer (CKAD)"
+      ],
+      "cost_center": "CC-1172",
+      "billable_rate_tier": "Tier 4"
+    }
+  ]
+}
